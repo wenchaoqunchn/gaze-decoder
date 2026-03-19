@@ -8,7 +8,7 @@ It implements **Contributions 2 and 3** of the paper.
 
 ## Architecture
 
-```
+```text
 Gaze sequence  (T × 2)
       │
       ▼
@@ -60,7 +60,7 @@ Positional Encoding
 
 ## Directory Layout
 
-```
+```text
 model/
 ├── README.md              This file
 ├── requirements.txt       Python dependencies
@@ -72,10 +72,10 @@ model/
     ├── README.md          Module-level API reference
     ├── __init__.py
     ├── config.py          Global hyper-parameters and path configuration
-    ├── dataset.py         EyeSeqDataset — window builder + LOSO split
+      ├── dataset.py         EyeSeqDataset — window builder + participant-level CV split
     ├── features.py        Layer-1 and Layer-2 behavioural feature extractors
     ├── models.py          All model definitions (GazeDecoder variants + baselines)
-    ├── training.py        LOSO training loop, checkpoint, evaluation
+      ├── training.py        CV training loop, checkpoint, evaluation
     └── viz.py             Plotting utilities (Scott–Knott diagram, confusion matrix)
 ```
 
@@ -83,13 +83,19 @@ model/
 
 ## Experiment Protocol
 
-**Leave-One-Subject-Out (LOSO) cross-validation**
+### Participant-level 5-fold cross-validation
 
-- 20 folds, one held-out participant per fold.
-- For each fold, the remaining 19 participants' data are split 80/20 into
-  train and validation.
-- The validation split is used only for checkpoint selection (best epoch by F1).
-- The held-out participant's data form the test set — never seen during training.
+We follow the paper's participant-level cross-validation protocol.
+The 20 participants are randomly and evenly partitioned into five groups of four.
+In each fold:
+
+- The windows of one group (4 participants) form the **test set**.
+- From the remaining 16 participants, **one participant** is randomly held out
+      as the **validation set** for early stopping and checkpoint selection.
+- The windows of the remaining 15 participants form the **training set**.
+
+This split strictly prevents any window from the same participant from appearing
+in more than one split, avoiding participant-level leakage.
 
 **Hyper-parameters** (see `shared/config.py`)
 

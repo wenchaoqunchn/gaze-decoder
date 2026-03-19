@@ -3,7 +3,9 @@
 This directory contains the complete eye-tracking dataset collected for the
 GazeDecoder study.
 
-**20 participants · 28 views · 3 037 labelled gaze windows**
+## Summary
+
+20 participants · 28 UI pages · 3 037 labelled gaze windows
 
 ---
 
@@ -13,37 +15,39 @@ GazeDecoder study.
 | ---------------------------- | ----------------------------------------------------------- |
 | Participants                 | 20 (anonymised P1–P20)                                      |
 | System under test            | University library portal (see `app/`)                      |
-| Task                         | Free navigation following a structured scenario             |
-| Eye-tracker                  | Tobii Pro (60 Hz)                                           |
+| Task                         | Seat-reservation workflow (multi-step task flow)            |
+| Eye-tracker                  | Tobii Eye Tracker 5 (30 Hz)                                 |
 | Screen resolution            | 1920 × 1080                                                 |
 | Labelling unit               | AOI × view instance                                         |
-| Positive label (`issue = 1`) | AOI where observed behaviour indicates a usability obstacle |
-| Negative label (`issue = 0`) | AOI visited without difficulty                              |
+| Positive label (`issue = 1`) | AOI reported as problematic in the post-task interview      |
+| Negative label (`issue = 0`) | AOI not reported as problematic                             |
 | Total gaze windows           | 3 037                                                       |
-| Window length                | 64 gaze samples (≈ 1.07 s at 60 Hz)                         |
+| Window length                | 64 frames (\(\omega = 64\))                                 |
 | Window stride                | 32 samples (50 % overlap)                                   |
 
 ### Labelling Protocol
 
-Ground-truth labels were assigned by two independent raters using a combination
-of think-aloud recordings, post-session interviews, and fixation-duration
-thresholds.
-Inter-rater agreement (Cohen's κ) was computed and disagreements resolved by
-discussion.
+Ground truth is derived from a **semi-structured interview** conducted
+immediately after task completion. Participants were asked to (1) report any
+frustrations or obstacles encountered on specific pages and (2) review their own
+gaze visualizations (e.g., heatmaps) to surface additional issues.
 
-A gaze window is labelled as a **usability issue** (`issue = 1`) if the
-participant showed any of the following in that window:
+Only usability issues **spontaneously reported by participants and confirmed
+through the interview** are treated as ground truth. No issues were introduced
+independently by the researchers.
 
-- Repeated fixation oscillation between two UI regions
-- Fixation duration significantly exceeding the expected reading time for the component
-- Backtracking saccade after an incorrect selection
-- Verbal or gestural hesitation recorded during think-aloud
+At the dataset level, UI components (AOIs) associated with participant-reported
+issues are labeled `issue = 1`; all other components are labeled `issue = 0`.
+
+At the window level, sliding windows are constructed with \(\omega = 64\) frames
+and \(\delta = 32\) frames (50% overlap). Windows that span a view transition are
+truncated at the boundary so that each window corresponds to a single UI view.
 
 ---
 
 ## Directory Layout
 
-```
+```text
 dataset/
 ├── README.md            This file
 ├── docs/
@@ -110,17 +114,4 @@ is stored in this repository.
 The study was conducted in accordance with the institutional ethics review
 guidelines.
 
----
 
-## Citation
-
-If you use this dataset in your research, please cite:
-
-```bibtex
-@article{gazedecoder2026tse,
-  title   = {GazeDecoder: Context-Aware Usability Issue Detection from Eye-Tracking Data},
-  author  = {[Authors]},
-  journal = {IEEE Transactions on Software Engineering},
-  year    = {2026}
-}
-```

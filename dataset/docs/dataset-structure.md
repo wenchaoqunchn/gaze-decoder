@@ -3,10 +3,10 @@
 ## Root
 
 - `README.md`: dataset entry
-- `participants/`: per-participant data
+- `P1/` … `P20/`: per-participant data (anonymized IDs)
 - `docs/`: documentation
 
-## `participants/Pxx/`
+## `Pxx/`
 
 Each participant folder uses an anonymized ID (`P1`–`P20`).
 

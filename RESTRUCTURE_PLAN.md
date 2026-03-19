@@ -29,7 +29,7 @@
 
 ## 2. Proposed Directory Layout
 
-```
+```text
 gaze-decoder/                          ← repository root
 │
 ├── README.md                          ★ entry point — paper abstract, repo map, quick-start
@@ -217,7 +217,7 @@ gaze-decoder/                          ← repository root
 
 ### 4.1 Root `README.md`
 
-```
+```text
 # GazeDecoder
 
 > Accompanying code and data for the paper:
@@ -264,7 +264,7 @@ model/      – GazeDecoder model, ablation study, baselines (Contributions 2 & 
 
 - Architecture diagram (IIB → Transformer → CtxSA → OIB)
 - Feature vector layout (786-d)
-- Experiment protocol: LOSO cross-validation, 20 folds
+- Experiment protocol: participant-level 5-fold cross-validation
 - Results table (F1, Precision, Recall for GazeDecoder and all 12 baselines)
 - How to run: `jupyter nbconvert --execute model/ablation.ipynb`
 - Dependency installation: `pip install -r model/requirements.txt`
@@ -317,4 +317,4 @@ The steps below should be followed **in order** when restructuring the repositor
 
 ---
 
-*Document generated: 2026-03-12*
+Document generated: 2026-03-12

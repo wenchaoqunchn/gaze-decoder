@@ -11,7 +11,7 @@ sys.path.insert(0, "..")   # add model/ to path
 from shared.config import *
 from shared.dataset import EyeSeqDataset
 from shared.models import build_model
-from shared.training import run_loso
+from shared.training import run_cv
 ```
 
 ---
@@ -71,7 +71,7 @@ Key method:
 
 ```python
 def get_loso_splits(dataset) -> List[Tuple[Subset, Subset, Subset]]:
-    """Returns 20 (train, val, test) Subset triples for LOSO CV."""
+    """Returns participant-level (train, val, test) Subset triples for CV."""
 ```
 
 ---
@@ -136,7 +136,7 @@ Contains the full GazeDecoder architecture plus all 12 baseline models.
 
 ---
 
-### `training.py` — LOSO Training Framework
+### `training.py` — Cross-Validation Training Framework
 
 Implements the training loop with:
 
@@ -148,13 +148,13 @@ Implements the training loop with:
 Key function:
 
 ```python
-def run_loso(
+def run_cv(
     model_name: str,
     build_fn: Callable,
     dataset: EyeSeqDataset,
     archive_dir: Path,
 ) -> dict:
-    """Run full LOSO CV and return aggregated metrics dict."""
+    """Run participant-level cross-validation and return aggregated metrics dict."""
 ```
 
 ---
@@ -163,4 +163,4 @@ def run_loso(
 
 - `plot_sk_diagram(results)` — Scott–Knott rank diagram (paper Figure 4)
 - `plot_confusion_matrix(y_true, y_pred)` — Per-fold confusion matrix
-- `plot_loso_boxplot(results)` — F1 distribution across folds
+- `plot_cv_boxplot(results)` — F1 distribution across folds
