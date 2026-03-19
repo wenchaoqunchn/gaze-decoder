@@ -1,0 +1,1346 @@
+[
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/services/AncientRead.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 古籍阅览\n        </div>\n        <div class=\"aoi title\">\n            <h2>古籍阅览须知</h2>\n        </div>\n",
+    "key": "aoi logo|views/services/AncientRead.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/services/AncientRead.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 古籍阅览\n        </div>\n        <div class=\"aoi title\">\n            <h2>古籍阅览须知</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/services/AncientRead.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/services/AncientRead.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 古籍阅览\n        </div>\n        <div class=\"aoi title\">\n            <h2>古籍阅览须知</h2>\n        </div>\n",
+    "key": "time aoi|views/services/AncientRead.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/services/AncientRead.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 古籍阅览\n        </div>\n        <div class=\"aoi title\">\n            <h2>古籍阅览须知</h2>\n        </div>\n",
+    "key": "aoi|views/services/AncientRead.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/services/AncientRead.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 古籍阅览\n        </div>\n        <div class=\"aoi title\">\n            <h2>古籍阅览须知</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/services/AncientRead.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/services/AncientRead.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 古籍阅览\n        </div>\n        <div class=\"aoi title\">\n            <h2>古籍阅览须知</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>1．古籍书库仅对校内读者开放，开放时间为周一至周五9:00－11:00，14:00－16:00（节假日除外），需预约使用。</p>\n            <p>2．读者须持一卡通等有效证件至少提前一天到图书馆二层总服务台办理预约手续，收到确认信息后，在预约时间进入书库。</p>\n",
+    "key": "aoi title|views/services/AncientRead.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/services/AncientRead.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 服务 > 古籍阅览\n        </div>\n        <div class=\"aoi title\">\n            <h2>古籍阅览须知</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>1．古籍书库仅对校内读者开放，开放时间为周一至周五9:00－11:00，14:00－16:00（节假日除外），需预约使用。</p>\n            <p>2．读者须持一卡通等有效证件至少提前一天到图书馆二层总服务台办理预约手续，收到确认信息后，在预约时间进入书库。</p>\n            <p>3．读者进入阅览室须交验证件。</p>\n            <p>4．古籍书库内文献一律不外借及复印，仅限本书库内阅览，禁止带出。</p>\n            <p>5．古籍书库不接待自习读者。</p>\n",
+    "key": "aoi content|views/services/AncientRead.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/services/BookBorrow.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 书刊借阅\n        </div>\n        <div class=\"aoi title\">\n            <h2>书刊借阅</h2>\n        </div>\n",
+    "key": "aoi logo|views/services/BookBorrow.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/services/BookBorrow.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 书刊借阅\n        </div>\n        <div class=\"aoi title\">\n            <h2>书刊借阅</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/services/BookBorrow.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/services/BookBorrow.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 书刊借阅\n        </div>\n        <div class=\"aoi title\">\n            <h2>书刊借阅</h2>\n        </div>\n",
+    "key": "time aoi|views/services/BookBorrow.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/services/BookBorrow.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 书刊借阅\n        </div>\n        <div class=\"aoi title\">\n            <h2>书刊借阅</h2>\n        </div>\n",
+    "key": "aoi|views/services/BookBorrow.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/services/BookBorrow.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 书刊借阅\n        </div>\n        <div class=\"aoi title\">\n            <h2>书刊借阅</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/services/BookBorrow.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/services/BookBorrow.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 书刊借阅\n        </div>\n        <div class=\"aoi title\">\n            <h2>书刊借阅</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>一．图书借还</p>\n            <p>\n",
+    "key": "aoi title|views/services/BookBorrow.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/services/BookBorrow.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 服务 > 书刊借阅\n        </div>\n        <div class=\"aoi title\">\n            <h2>书刊借阅</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>一．图书借还</p>\n            <p>\n                校本部图书馆（逸夫图书馆）：读者凭本人校园一卡通或临时借阅证借阅图书，并可续借、预约，详见借阅规则。图书馆二层总服务台、自助借还机可进行借还书，图书馆南门24小时还书机可办理还书。\n            </p>\n\n",
+    "key": "aoi content|views/services/BookBorrow.vue:9"
+  },
+  {
+    "componentInfo": "aoi key-aoi target-point",
+    "src_rel_path": "views/calibration/Calibration1.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"calibration-container\">\n        <div class=\"aoi key-aoi target-point\" :style=\"{ top: targetY + 'px', left: targetX + 'px' }\">+</div>\n    </div>\n</template>\n\n<script setup>\nimport { ref, onMounted, onBeforeUnmount } from 'vue';\n",
+    "key": "aoi key-aoi target-point|views/calibration/Calibration1.vue:3"
+  },
+  {
+    "componentInfo": "aoi key-aoi target-point",
+    "src_rel_path": "views/calibration/Calibration1Ready.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"calibration-container\">\n        <div class=\"aoi key-aoi target-point\" :style=\"{ top: targetY + 'px', left: targetX + 'px' }\">+</div>\n    </div>\n</template>\n\n<script setup>\nimport { ref, onMounted, onBeforeUnmount } from 'vue';\n",
+    "key": "aoi key-aoi target-point|views/calibration/Calibration1Ready.vue:3"
+  },
+  {
+    "componentInfo": "aoi key-aoi target-point",
+    "src_rel_path": "views/calibration/Calibration2.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"calibration-container\">\n        <div class=\"aoi key-aoi target-point\" :style=\"{ top: targetY + 'px', left: targetX + 'px' }\">+</div>\n    </div>\n</template>\n\n<script setup>\nimport { ref, onMounted, onBeforeUnmount } from 'vue';\n",
+    "key": "aoi key-aoi target-point|views/calibration/Calibration2.vue:3"
+  },
+  {
+    "componentInfo": "aoi key-aoi target-point",
+    "src_rel_path": "views/calibration/Calibration2Ready.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"calibration-container\">\n        <div class=\"aoi key-aoi target-point\" :style=\"{ top: targetY + 'px', left: targetX + 'px' }\">+</div>\n    </div>\n</template>\n\n<script setup>\nimport { ref, onMounted, onBeforeUnmount } from 'vue';\n",
+    "key": "aoi key-aoi target-point|views/calibration/Calibration2Ready.vue:3"
+  },
+  {
+    "componentInfo": "aoi key-aoi target-point",
+    "src_rel_path": "views/calibration/Calibration3.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"calibration-container\">\n        <div class=\"aoi key-aoi target-point\" :style=\"{ top: targetY + 'px', left: targetX + 'px' }\">+</div>\n    </div>\n</template>\n\n<script setup>\nimport { ref, onMounted, onBeforeUnmount } from 'vue';\n",
+    "key": "aoi key-aoi target-point|views/calibration/Calibration3.vue:3"
+  },
+  {
+    "componentInfo": "aoi key-aoi target-point",
+    "src_rel_path": "views/calibration/Calibration3Ready.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"calibration-container\">\n        <div class=\"aoi key-aoi target-point\" :style=\"{ top: targetY + 'px', left: targetX + 'px' }\">+</div>\n    </div>\n</template>\n\n<script setup>\nimport { ref, onMounted, onBeforeUnmount } from 'vue';\n",
+    "key": "aoi key-aoi target-point|views/calibration/Calibration3Ready.vue:3"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/services/CardProcess.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 证件办理\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学借阅证办理办法</h2>\n        </div>\n",
+    "key": "aoi logo|views/services/CardProcess.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/services/CardProcess.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 证件办理\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学借阅证办理办法</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/services/CardProcess.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/services/CardProcess.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 证件办理\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学借阅证办理办法</h2>\n        </div>\n",
+    "key": "time aoi|views/services/CardProcess.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/services/CardProcess.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 证件办理\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学借阅证办理办法</h2>\n        </div>\n",
+    "key": "aoi|views/services/CardProcess.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/services/CardProcess.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 证件办理\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学借阅证办理办法</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/services/CardProcess.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/services/CardProcess.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 证件办理\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学借阅证办理办法</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>\n                校内人员使用<strong>“校园一卡通”</strong>作为借阅证。\n",
+    "key": "aoi title|views/services/CardProcess.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/services/CardProcess.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 服务 > 证件办理\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学借阅证办理办法</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>\n                校内人员使用<strong>“校园一卡通”</strong>作为借阅证。\n            </p>\n            <p>\n                1．新到校编制内教职工（含完全人事代理人员、博士后、高层次引进人才等），在学校信息中心领取校园一卡通后，享有进馆阅览权限，如需开通借阅权限，需本人持校园一卡通到图书馆二层总服务台办理，权限开通后密码为开卡当天的8位日期，如20090101，<strong>请读者务必尽快修改为强密码；</strong>国家计划内统一招生的学生（本科生、研究生），领取校园一卡通后，图书馆统一开通借阅权限，2019级之前的学生密码为身份证/军官证/护照号号码后5位的前4位，2019级及以后的学生密码为身份证/军官证/护照号号码后6位。\n",
+    "key": "aoi content|views/services/CardProcess.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/resources/CommonApp.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 常用工具软件\n        </div>\n        <div class=\"aoi title\">\n            <h2>常用工具软件</h2>\n        </div>\n",
+    "key": "aoi logo|views/resources/CommonApp.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/resources/CommonApp.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 常用工具软件\n        </div>\n        <div class=\"aoi title\">\n            <h2>常用工具软件</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/resources/CommonApp.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/resources/CommonApp.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 常用工具软件\n        </div>\n        <div class=\"aoi title\">\n            <h2>常用工具软件</h2>\n        </div>\n",
+    "key": "time aoi|views/resources/CommonApp.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/resources/CommonApp.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 常用工具软件\n        </div>\n        <div class=\"aoi title\">\n            <h2>常用工具软件</h2>\n        </div>\n",
+    "key": "aoi|views/resources/CommonApp.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/resources/CommonApp.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 常用工具软件\n        </div>\n        <div class=\"aoi title\">\n            <h2>常用工具软件</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/resources/CommonApp.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/resources/CommonApp.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 常用工具软件\n        </div>\n        <div class=\"aoi title\">\n            <h2>常用工具软件</h2>\n        </div>\n        <div class=\"aoi content\">\n            <table>\n                <thead>\n",
+    "key": "aoi title|views/resources/CommonApp.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/resources/CommonApp.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 资源 > 常用工具软件\n        </div>\n        <div class=\"aoi title\">\n            <h2>常用工具软件</h2>\n        </div>\n        <div class=\"aoi content\">\n            <table>\n                <thead>\n                    <tr>\n                        <th>名称</th>\n                        <th>说明</th>\n",
+    "key": "aoi content|views/resources/CommonApp.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/ContactUs.vue",
+    "line_number": 5,
+    "code_snippet": "<template>\n    <div class=\"main-box\">\n        <div class=\"sidebar\">\n            <div class=\"bar-title\">\n                <h2 class=\"aoi\">联系我们</h2>\n            </div>\n        </div>\n        <div class=\"main-content\">\n            <div class=\"title\">\n                <h1 class=\"aoi\">联系我们</h1>\n",
+    "key": "aoi logo|views/ContactUs.vue:5"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/ContactUs.vue",
+    "line_number": 5,
+    "code_snippet": "<template>\n    <div class=\"main-box\">\n        <div class=\"sidebar\">\n            <div class=\"bar-title\">\n                <h2 class=\"aoi\">联系我们</h2>\n            </div>\n        </div>\n        <div class=\"main-content\">\n            <div class=\"title\">\n                <h1 class=\"aoi\">联系我们</h1>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/ContactUs.vue:5"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/ContactUs.vue",
+    "line_number": 5,
+    "code_snippet": "<template>\n    <div class=\"main-box\">\n        <div class=\"sidebar\">\n            <div class=\"bar-title\">\n                <h2 class=\"aoi\">联系我们</h2>\n            </div>\n        </div>\n        <div class=\"main-content\">\n            <div class=\"title\">\n                <h1 class=\"aoi\">联系我们</h1>\n",
+    "key": "time aoi|views/ContactUs.vue:5"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/ContactUs.vue",
+    "line_number": 5,
+    "code_snippet": "<template>\n    <div class=\"main-box\">\n        <div class=\"sidebar\">\n            <div class=\"bar-title\">\n                <h2 class=\"aoi\">联系我们</h2>\n            </div>\n        </div>\n        <div class=\"main-content\">\n            <div class=\"title\">\n                <h1 class=\"aoi\">联系我们</h1>\n",
+    "key": "aoi|views/ContactUs.vue:5"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/ContactUs.vue",
+    "line_number": 12,
+    "code_snippet": "        </div>\n        <div class=\"main-content\">\n            <div class=\"title\">\n                <h1 class=\"aoi\">联系我们</h1>\n            </div>\n            <div class=\"aoi content\">\n                <p style=\"margin-top: 20px;\"><strong>一般问题咨询：</strong>010-67392185；010-67396505</p>\n                <p style=\"margin-top: 5px;\">\n                    <strong>参观交流：</strong>010-67392063（请至少提前3个工作日预约，下载“来访预约单”，发送到yujinmei@bjut.edu.cn）\n                </p>\n                <p style=\"margin-top: 5px;\"><strong>总服务台：</strong>010-67391819</p>\n",
+    "key": "aoi content|views/ContactUs.vue:12"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/resources/Copyright.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 版权公告\n        </div>\n        <div class=\"aoi title\">\n            <h2>关于保护电子资源知识产权的公告</h2>\n        </div>\n",
+    "key": "aoi logo|views/resources/Copyright.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/resources/Copyright.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 版权公告\n        </div>\n        <div class=\"aoi title\">\n            <h2>关于保护电子资源知识产权的公告</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/resources/Copyright.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/resources/Copyright.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 版权公告\n        </div>\n        <div class=\"aoi title\">\n            <h2>关于保护电子资源知识产权的公告</h2>\n        </div>\n",
+    "key": "time aoi|views/resources/Copyright.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/resources/Copyright.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 版权公告\n        </div>\n        <div class=\"aoi title\">\n            <h2>关于保护电子资源知识产权的公告</h2>\n        </div>\n",
+    "key": "aoi|views/resources/Copyright.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/resources/Copyright.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 版权公告\n        </div>\n        <div class=\"aoi title\">\n            <h2>关于保护电子资源知识产权的公告</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/resources/Copyright.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/resources/Copyright.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 版权公告\n        </div>\n        <div class=\"aoi title\">\n            <h2>关于保护电子资源知识产权的公告</h2>\n        </div>\n        <div class=\"aoi content\">\n\n            <p>为了保护电子资源的知识产权，维护北京工业大学的声誉，保障广大合法用户的正当权益，请各使用单位和个人重视并遵守电子资源知识产权的有关规定，合理合法使用电子资源。图书馆郑重声明：</p>\n",
+    "key": "aoi title|views/resources/Copyright.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/resources/Copyright.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 资源 > 版权公告\n        </div>\n        <div class=\"aoi title\">\n            <h2>关于保护电子资源知识产权的公告</h2>\n        </div>\n        <div class=\"aoi content\">\n\n            <p>为了保护电子资源的知识产权，维护北京工业大学的声誉，保障广大合法用户的正当权益，请各使用单位和个人重视并遵守电子资源知识产权的有关规定，合理合法使用电子资源。图书馆郑重声明：</p>\n\n            <p>1． 不得将所获得的文献进行非法复制；</p>\n\n",
+    "key": "aoi content|views/resources/Copyright.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/resources/CoreJournal.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 核心期刊导航\n        </div>\n        <div class=\"aoi title\">\n            <h2>核心期刊导航</h2>\n        </div>\n",
+    "key": "aoi logo|views/resources/CoreJournal.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/resources/CoreJournal.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 核心期刊导航\n        </div>\n        <div class=\"aoi title\">\n            <h2>核心期刊导航</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/resources/CoreJournal.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/resources/CoreJournal.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 核心期刊导航\n        </div>\n        <div class=\"aoi title\">\n            <h2>核心期刊导航</h2>\n        </div>\n",
+    "key": "time aoi|views/resources/CoreJournal.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/resources/CoreJournal.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 核心期刊导航\n        </div>\n        <div class=\"aoi title\">\n            <h2>核心期刊导航</h2>\n        </div>\n",
+    "key": "aoi|views/resources/CoreJournal.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/resources/CoreJournal.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 核心期刊导航\n        </div>\n        <div class=\"aoi title\">\n            <h2>核心期刊导航</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/resources/CoreJournal.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/resources/CoreJournal.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 核心期刊导航\n        </div>\n        <div class=\"aoi title\">\n            <h2>核心期刊导航</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>1.\n                中外文核心期刊查询系统（需网关注册）：可检索SCI、SSCI、EI等数据库收录的期刊及各类中文核心期刊，我馆购买的电子期刊通过本系统可直接获取。（注：本系统检索结果仅供参考，核心期刊的判别以官方出版的目录为准。）\n",
+    "key": "aoi title|views/resources/CoreJournal.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/resources/CoreJournal.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 资源 > 核心期刊导航\n        </div>\n        <div class=\"aoi title\">\n            <h2>核心期刊导航</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>1.\n                中外文核心期刊查询系统（需网关注册）：可检索SCI、SSCI、EI等数据库收录的期刊及各类中文核心期刊，我馆购买的电子期刊通过本系统可直接获取。（注：本系统检索结果仅供参考，核心期刊的判别以官方出版的目录为准。）\n            </p>\n\n            <p>2. 中国社会科学引文索引(CSSCI)检索系统（需网关注册）：可检索中文社会科学领域的论文被收录和引用情况。</p>\n",
+    "key": "aoi content|views/resources/CoreJournal.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/services/DiscRequest.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 随书光盘\n        </div>\n        <div class=\"aoi title\">\n            <h2>随书光盘</h2>\n        </div>\n",
+    "key": "aoi logo|views/services/DiscRequest.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/services/DiscRequest.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 随书光盘\n        </div>\n        <div class=\"aoi title\">\n            <h2>随书光盘</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/services/DiscRequest.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/services/DiscRequest.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 随书光盘\n        </div>\n        <div class=\"aoi title\">\n            <h2>随书光盘</h2>\n        </div>\n",
+    "key": "time aoi|views/services/DiscRequest.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/services/DiscRequest.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 随书光盘\n        </div>\n        <div class=\"aoi title\">\n            <h2>随书光盘</h2>\n        </div>\n",
+    "key": "aoi|views/services/DiscRequest.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/services/DiscRequest.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 随书光盘\n        </div>\n        <div class=\"aoi title\">\n            <h2>随书光盘</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/services/DiscRequest.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/services/DiscRequest.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 随书光盘\n        </div>\n        <div class=\"aoi title\">\n            <h2>随书光盘</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>图书馆随书光盘提供下载服务：</p>\n\n",
+    "key": "aoi title|views/services/DiscRequest.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/services/DiscRequest.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 服务 > 随书光盘\n        </div>\n        <div class=\"aoi title\">\n            <h2>随书光盘</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>图书馆随书光盘提供下载服务：</p>\n\n            <p>方法一：北京工业大学图书馆随书光盘数据库（注：仅限校园网内使用）</p>\n            <p>方法二：畅想之星随书资源数据库（注：校园网内、外均可使用，校内需网关注册）</p>\n            <p>校外使用说明：</p>\n",
+    "key": "aoi content|views/services/DiscRequest.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/services/DocumentTransfer.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献传递与馆际互借\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献传递与馆际互借</h2>\n        </div>\n",
+    "key": "aoi logo|views/services/DocumentTransfer.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/services/DocumentTransfer.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献传递与馆际互借\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献传递与馆际互借</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/services/DocumentTransfer.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/services/DocumentTransfer.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献传递与馆际互借\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献传递与馆际互借</h2>\n        </div>\n",
+    "key": "time aoi|views/services/DocumentTransfer.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/services/DocumentTransfer.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献传递与馆际互借\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献传递与馆际互借</h2>\n        </div>\n",
+    "key": "aoi|views/services/DocumentTransfer.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/services/DocumentTransfer.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献传递与馆际互借\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献传递与馆际互借</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/services/DocumentTransfer.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/services/DocumentTransfer.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献传递与馆际互借\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献传递与馆际互借</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p></p>\n            <strong>一、服务介绍：</strong>\n",
+    "key": "aoi title|views/services/DocumentTransfer.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/services/DocumentTransfer.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 服务 > 文献传递与馆际互借\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献传递与馆际互借</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p></p>\n            <strong>一、服务介绍：</strong>\n            <p>\n                文献传递与馆际互借服务是为我校读者提供我馆未收藏和未购买资源的文献借阅服务。\n            </p>\n",
+    "key": "aoi content|views/services/DocumentTransfer.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/resources/EBook.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 电子图书\n        </div>\n        <div class=\"aoi title\">\n            <h2>电子图书</h2>\n        </div>\n",
+    "key": "aoi logo|views/resources/EBook.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/resources/EBook.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 电子图书\n        </div>\n        <div class=\"aoi title\">\n            <h2>电子图书</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/resources/EBook.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/resources/EBook.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 电子图书\n        </div>\n        <div class=\"aoi title\">\n            <h2>电子图书</h2>\n        </div>\n",
+    "key": "time aoi|views/resources/EBook.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/resources/EBook.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 电子图书\n        </div>\n        <div class=\"aoi title\">\n            <h2>电子图书</h2>\n        </div>\n",
+    "key": "aoi|views/resources/EBook.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/resources/EBook.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 电子图书\n        </div>\n        <div class=\"aoi title\">\n            <h2>电子图书</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/resources/EBook.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/resources/EBook.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 电子图书\n        </div>\n        <div class=\"aoi title\">\n            <h2>电子图书</h2>\n        </div>\n        <div class=\"aoi content\">\n            <h3>一. 已购中外文电子图书</h3>\n            <table>\n",
+    "key": "aoi title|views/resources/EBook.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/resources/EBook.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 资源 > 电子图书\n        </div>\n        <div class=\"aoi title\">\n            <h2>电子图书</h2>\n        </div>\n        <div class=\"aoi content\">\n            <h3>一. 已购中外文电子图书</h3>\n            <table>\n                <thead>\n                    <tr>\n                        <th>资源名称</th>\n",
+    "key": "aoi content|views/resources/EBook.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/reserve/FloorSelect.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"card-container\">\n        <el-card class=\"card\" :class=\"{ 'active': activeCard === 2 }\" @click=\"setActiveCard(2)\">\n            <div class=\"section-container\">\n                <div class=\"img-box\">\n                    <div class=\"aoi img f2\">\n                        <div class=\"layer-text\">F2/ 二层 - 社科</div>\n                    </div>\n                </div>\n                <div class=\"aoi section\" v-for=\"(categories, sectionName) in infoF2\" :key=\"sectionName\">\n                    <h3>{{ sectionName }}</h3>\n",
+    "key": "aoi logo|views/reserve/FloorSelect.vue:6"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/reserve/FloorSelect.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"card-container\">\n        <el-card class=\"card\" :class=\"{ 'active': activeCard === 2 }\" @click=\"setActiveCard(2)\">\n            <div class=\"section-container\">\n                <div class=\"img-box\">\n                    <div class=\"aoi img f2\">\n                        <div class=\"layer-text\">F2/ 二层 - 社科</div>\n                    </div>\n                </div>\n                <div class=\"aoi section\" v-for=\"(categories, sectionName) in infoF2\" :key=\"sectionName\">\n                    <h3>{{ sectionName }}</h3>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/reserve/FloorSelect.vue:6"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/reserve/FloorSelect.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"card-container\">\n        <el-card class=\"card\" :class=\"{ 'active': activeCard === 2 }\" @click=\"setActiveCard(2)\">\n            <div class=\"section-container\">\n                <div class=\"img-box\">\n                    <div class=\"aoi img f2\">\n                        <div class=\"layer-text\">F2/ 二层 - 社科</div>\n                    </div>\n                </div>\n                <div class=\"aoi section\" v-for=\"(categories, sectionName) in infoF2\" :key=\"sectionName\">\n                    <h3>{{ sectionName }}</h3>\n",
+    "key": "time aoi|views/reserve/FloorSelect.vue:6"
+  },
+  {
+    "componentInfo": "el-step is-horizontal is-center aoi key-aoi",
+    "src_rel_path": "views/reserve/FloorSelect.vue",
+    "line_number": 24,
+    "code_snippet": "        </el-card>\n\n        <el-card class=\"card\" :class=\"{ 'active': activeCard === 3 }\" @click=\"setActiveCard(3)\">\n            <div class=\"section-container\">\n                <div class=\"img-box\">\n                    <div class=\"aoi key-aoi img f3\">\n                        <div class=\"layer-text\">F3/ 三层 - 科技</div>\n                    </div>\n                </div>\n                <div class=\"aoi key-aoi section\" v-for=\"(categories, sectionName) in infoF3\" :key=\"sectionName\">\n                    <h3>{{ sectionName }}</h3>\n",
+    "key": "el-step is-horizontal is-center aoi key-aoi|views/reserve/FloorSelect.vue:24"
+  },
+  {
+    "componentInfo": "aoi img f2",
+    "src_rel_path": "views/reserve/FloorSelect.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"card-container\">\n        <el-card class=\"card\" :class=\"{ 'active': activeCard === 2 }\" @click=\"setActiveCard(2)\">\n            <div class=\"section-container\">\n                <div class=\"img-box\">\n                    <div class=\"aoi img f2\">\n                        <div class=\"layer-text\">F2/ 二层 - 社科</div>\n                    </div>\n                </div>\n                <div class=\"aoi section\" v-for=\"(categories, sectionName) in infoF2\" :key=\"sectionName\">\n                    <h3>{{ sectionName }}</h3>\n",
+    "key": "aoi img f2|views/reserve/FloorSelect.vue:6"
+  },
+  {
+    "componentInfo": "aoi section",
+    "src_rel_path": "views/reserve/FloorSelect.vue",
+    "line_number": 10,
+    "code_snippet": "                <div class=\"img-box\">\n                    <div class=\"aoi img f2\">\n                        <div class=\"layer-text\">F2/ 二层 - 社科</div>\n                    </div>\n                </div>\n                <div class=\"aoi section\" v-for=\"(categories, sectionName) in infoF2\" :key=\"sectionName\">\n                    <h3>{{ sectionName }}</h3>\n                    <ul>\n                        <li v-for=\"(description, code) in categories\" :key=\"code\">\n                            {{ code }}: {{ description }}\n                        </li>\n",
+    "key": "aoi section|views/reserve/FloorSelect.vue:10"
+  },
+  {
+    "componentInfo": "aoi key-aoi img f3",
+    "src_rel_path": "views/reserve/FloorSelect.vue",
+    "line_number": 24,
+    "code_snippet": "        </el-card>\n\n        <el-card class=\"card\" :class=\"{ 'active': activeCard === 3 }\" @click=\"setActiveCard(3)\">\n            <div class=\"section-container\">\n                <div class=\"img-box\">\n                    <div class=\"aoi key-aoi img f3\">\n                        <div class=\"layer-text\">F3/ 三层 - 科技</div>\n                    </div>\n                </div>\n                <div class=\"aoi key-aoi section\" v-for=\"(categories, sectionName) in infoF3\" :key=\"sectionName\">\n                    <h3>{{ sectionName }}</h3>\n",
+    "key": "aoi key-aoi img f3|views/reserve/FloorSelect.vue:24"
+  },
+  {
+    "componentInfo": "aoi key-aoi section",
+    "src_rel_path": "views/reserve/FloorSelect.vue",
+    "line_number": 28,
+    "code_snippet": "                <div class=\"img-box\">\n                    <div class=\"aoi key-aoi img f3\">\n                        <div class=\"layer-text\">F3/ 三层 - 科技</div>\n                    </div>\n                </div>\n                <div class=\"aoi key-aoi section\" v-for=\"(categories, sectionName) in infoF3\" :key=\"sectionName\">\n                    <h3>{{ sectionName }}</h3>\n                    <ul>\n                        <li style=\"font-family: 'MingLiU'\" v-for=\"(description, code) in categories\" :key=\"code\">\n                            {{ code }}: {{ description }}\n                        </li>\n",
+    "key": "aoi key-aoi section|views/reserve/FloorSelect.vue:28"
+  },
+  {
+    "componentInfo": "aoi img f4",
+    "src_rel_path": "views/reserve/FloorSelect.vue",
+    "line_number": 42,
+    "code_snippet": "        </el-card>\n\n        <el-card class=\"card\" :class=\"{ 'active': activeCard === 4 }\" @click=\"setActiveCard(4)\">\n            <div class=\"section-container\">\n                <div class=\"img-box\">\n                    <div class=\"aoi img f4\">\n                        <div class=\"layer-text\">F4/ 四层 - 文学</div>\n                    </div>\n                </div>\n                <div class=\"aoi section\" v-for=\"(categories, sectionName) in infoF4\" :key=\"sectionName\">\n                    <h3>{{ sectionName }}</h3>\n",
+    "key": "aoi img f4|views/reserve/FloorSelect.vue:42"
+  },
+  {
+    "componentInfo": "aoim key-aoi",
+    "src_rel_path": "views/reserve/FloorSelect.vue",
+    "line_number": 24,
+    "code_snippet": "        </el-card>\n\n        <el-card class=\"card\" :class=\"{ 'active': activeCard === 3 }\" @click=\"setActiveCard(3)\">\n            <div class=\"section-container\">\n                <div class=\"img-box\">\n                    <div class=\"aoi key-aoi img f3\">\n                        <div class=\"layer-text\">F3/ 三层 - 科技</div>\n                    </div>\n                </div>\n                <div class=\"aoi key-aoi section\" v-for=\"(categories, sectionName) in infoF3\" :key=\"sectionName\">\n                    <h3>{{ sectionName }}</h3>\n",
+    "key": "aoim key-aoi|views/reserve/FloorSelect.vue:24"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/HomePage.vue",
+    "line_number": 7,
+    "code_snippet": "    <div class=\"search-area\">\n        <SearchBox></SearchBox>\n    </div>\n    <div class=\"main-box\">\n        <div class=\"poster\">\n            <h1 class=\"aoi\">本馆风貌</h1>\n            <PosterPlayer />\n        </div>\n        <div class=\"wrapper\">\n            <div class=\"news\">\n                <NewsList />\n",
+    "key": "aoi logo|views/HomePage.vue:7"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/HomePage.vue",
+    "line_number": 7,
+    "code_snippet": "    <div class=\"search-area\">\n        <SearchBox></SearchBox>\n    </div>\n    <div class=\"main-box\">\n        <div class=\"poster\">\n            <h1 class=\"aoi\">本馆风貌</h1>\n            <PosterPlayer />\n        </div>\n        <div class=\"wrapper\">\n            <div class=\"news\">\n                <NewsList />\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/HomePage.vue:7"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/HomePage.vue",
+    "line_number": 7,
+    "code_snippet": "    <div class=\"search-area\">\n        <SearchBox></SearchBox>\n    </div>\n    <div class=\"main-box\">\n        <div class=\"poster\">\n            <h1 class=\"aoi\">本馆风貌</h1>\n            <PosterPlayer />\n        </div>\n        <div class=\"wrapper\">\n            <div class=\"news\">\n                <NewsList />\n",
+    "key": "time aoi|views/HomePage.vue:7"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/HomePage.vue",
+    "line_number": 7,
+    "code_snippet": "    <div class=\"search-area\">\n        <SearchBox></SearchBox>\n    </div>\n    <div class=\"main-box\">\n        <div class=\"poster\">\n            <h1 class=\"aoi\">本馆风貌</h1>\n            <PosterPlayer />\n        </div>\n        <div class=\"wrapper\">\n            <div class=\"news\">\n                <NewsList />\n",
+    "key": "aoi|views/HomePage.vue:7"
+  },
+  {
+    "componentInfo": "aoi carousel-container",
+    "src_rel_path": "views/HomePage.vue",
+    "line_number": 7,
+    "code_snippet": "    <div class=\"search-area\">\n        <SearchBox></SearchBox>\n    </div>\n    <div class=\"main-box\">\n        <div class=\"poster\">\n            <h1 class=\"aoi\">本馆风貌</h1>\n            <PosterPlayer />\n        </div>\n        <div class=\"wrapper\">\n            <div class=\"news\">\n                <NewsList />\n",
+    "key": "aoi carousel-container|views/HomePage.vue:7"
+  },
+  {
+    "componentInfo": "aoi header",
+    "src_rel_path": "views/HomePage.vue",
+    "line_number": 7,
+    "code_snippet": "    <div class=\"search-area\">\n        <SearchBox></SearchBox>\n    </div>\n    <div class=\"main-box\">\n        <div class=\"poster\">\n            <h1 class=\"aoi\">本馆风貌</h1>\n            <PosterPlayer />\n        </div>\n        <div class=\"wrapper\">\n            <div class=\"news\">\n                <NewsList />\n",
+    "key": "aoi header|views/HomePage.vue:7"
+  },
+  {
+    "componentInfo": "el-table--fit el-table--enable-row-hover el-table--enable-row-transition el-table el-table--layout-fixed aoi tab is-scrolling-none",
+    "src_rel_path": "views/HomePage.vue",
+    "line_number": 7,
+    "code_snippet": "    <div class=\"search-area\">\n        <SearchBox></SearchBox>\n    </div>\n    <div class=\"main-box\">\n        <div class=\"poster\">\n            <h1 class=\"aoi\">本馆风貌</h1>\n            <PosterPlayer />\n        </div>\n        <div class=\"wrapper\">\n            <div class=\"news\">\n                <NewsList />\n",
+    "key": "el-table--fit el-table--enable-row-hover el-table--enable-row-transition el-table el-table--layout-fixed aoi tab is-scrolling-none|views/HomePage.vue:7"
+  },
+  {
+    "componentInfo": "aoi footer",
+    "src_rel_path": "views/HomePage.vue",
+    "line_number": 16,
+    "code_snippet": "            <div class=\"news\">\n                <NewsList />\n            </div>\n        </div>\n    </div>\n    <div class=\"aoi footer\">\n        <div>国内外图书馆 | 国家图书馆 | 首都图书馆 | 中科院文献情报中心 | CALIS | BALIS培训中心 | 国家科技图书文献中心</div>\n        <div>版权所有 ©2019　 北京工业大学图书馆 | 馆长信箱：lib@bjut.edu.cn</div>\n    </div>\n</template>\n\n",
+    "key": "aoi footer|views/HomePage.vue:16"
+  },
+  {
+    "componentInfo": "el-step is-horizontal is-center aoi key-aoi",
+    "src_rel_path": "views/reserve/InfoConfirm.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <!-- 提示信息 -->\n    <div class=\"aoip key-aoi alert-message\">\n        <span class=\"alert-icon\">⚠️</span> <!-- 使用 emoji 作为图标 -->\n        请认真确认预约信息\n    </div>\n    <div class=\"info-box\">\n        <div class=\"info-container\">\n",
+    "key": "el-step is-horizontal is-center aoi key-aoi|views/reserve/InfoConfirm.vue:3"
+  },
+  {
+    "componentInfo": "aoip key-aoi alert-message",
+    "src_rel_path": "views/reserve/InfoConfirm.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <!-- 提示信息 -->\n    <div class=\"aoip key-aoi alert-message\">\n        <span class=\"alert-icon\">⚠️</span> <!-- 使用 emoji 作为图标 -->\n        请认真确认预约信息\n    </div>\n    <div class=\"info-box\">\n        <div class=\"info-container\">\n",
+    "key": "aoip key-aoi alert-message|views/reserve/InfoConfirm.vue:3"
+  },
+  {
+    "componentInfo": "aoim key-aoi",
+    "src_rel_path": "views/reserve/InfoConfirm.vue",
+    "line_number": 9,
+    "code_snippet": "        <span class=\"alert-icon\">⚠️</span> <!-- 使用 emoji 作为图标 -->\n        请认真确认预约信息\n    </div>\n    <div class=\"info-box\">\n        <div class=\"info-container\">\n            <h2 class=\"aoim key-aoi\">预约信息</h2>\n            <p class=\"aoim key-aoi\"><strong>层数：</strong> {{ selectedFloor }}</p>\n            <p class=\"aoim key-aoi\"><strong>日期：</strong> {{ formattedDate }}</p>\n            <p class=\"aoim key-aoi\"><strong>时间：</strong> {{ startTime }} - {{ endTime }}</p>\n            <p class=\"aoim key-aoi\"><strong>座位号：</strong> {{ selectedSeat }}</p>\n        </div>\n",
+    "key": "aoim key-aoi|views/reserve/InfoConfirm.vue:9"
+  },
+  {
+    "componentInfo": "aoim",
+    "src_rel_path": "views/reserve/InfoConfirm.vue",
+    "line_number": 9,
+    "code_snippet": "        <span class=\"alert-icon\">⚠️</span> <!-- 使用 emoji 作为图标 -->\n        请认真确认预约信息\n    </div>\n    <div class=\"info-box\">\n        <div class=\"info-container\">\n            <h2 class=\"aoim key-aoi\">预约信息</h2>\n            <p class=\"aoim key-aoi\"><strong>层数：</strong> {{ selectedFloor }}</p>\n            <p class=\"aoim key-aoi\"><strong>日期：</strong> {{ formattedDate }}</p>\n            <p class=\"aoim key-aoi\"><strong>时间：</strong> {{ startTime }} - {{ endTime }}</p>\n            <p class=\"aoim key-aoi\"><strong>座位号：</strong> {{ selectedSeat }}</p>\n        </div>\n",
+    "key": "aoim|views/reserve/InfoConfirm.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/services/InfoTeaching.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献检索教学\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献检索教学</h2>\n        </div>\n",
+    "key": "aoi logo|views/services/InfoTeaching.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/services/InfoTeaching.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献检索教学\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献检索教学</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/services/InfoTeaching.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/services/InfoTeaching.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献检索教学\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献检索教学</h2>\n        </div>\n",
+    "key": "time aoi|views/services/InfoTeaching.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/services/InfoTeaching.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献检索教学\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献检索教学</h2>\n        </div>\n",
+    "key": "aoi|views/services/InfoTeaching.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/services/InfoTeaching.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献检索教学\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献检索教学</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/services/InfoTeaching.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/services/InfoTeaching.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 文献检索教学\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献检索教学</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>\n                <strong>一、专业学位硕士研究生《科技文献检索》</strong>\n",
+    "key": "aoi title|views/services/InfoTeaching.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/services/InfoTeaching.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 服务 > 文献检索教学\n        </div>\n        <div class=\"aoi title\">\n            <h2>文献检索教学</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>\n                <strong>一、专业学位硕士研究生《科技文献检索》</strong>\n            </p>\n            <p>\n                该课程是一门公共选修课，旨在培养学生良好信息素养，提高文献信息检索技能。该课程共16学时，1个学分。目前主要采用网络授课、上机实习与课堂现场答疑的方式。\n",
+    "key": "aoi content|views/services/InfoTeaching.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/overview/LeaderSpeech.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 馆长致辞\n        </div>\n        <div class=\"aoi title\">\n            <h2>馆长致辞</h2>\n        </div>\n",
+    "key": "aoi logo|views/overview/LeaderSpeech.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/overview/LeaderSpeech.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 馆长致辞\n        </div>\n        <div class=\"aoi title\">\n            <h2>馆长致辞</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/overview/LeaderSpeech.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/overview/LeaderSpeech.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 馆长致辞\n        </div>\n        <div class=\"aoi title\">\n            <h2>馆长致辞</h2>\n        </div>\n",
+    "key": "time aoi|views/overview/LeaderSpeech.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/overview/LeaderSpeech.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 馆长致辞\n        </div>\n        <div class=\"aoi title\">\n            <h2>馆长致辞</h2>\n        </div>\n",
+    "key": "aoi|views/overview/LeaderSpeech.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/overview/LeaderSpeech.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 馆长致辞\n        </div>\n        <div class=\"aoi title\">\n            <h2>馆长致辞</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/overview/LeaderSpeech.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/overview/LeaderSpeech.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 馆长致辞\n        </div>\n        <div class=\"aoi title\">\n            <h2>馆长致辞</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>对于图书馆的赞美和推崇，莫过于阿根廷诗人博尔赫斯说的“如果这个世上真的有天堂，天堂应该是图书馆的模样”。</p>\n\n",
+    "key": "aoi title|views/overview/LeaderSpeech.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/overview/LeaderSpeech.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 图书馆概况 > 馆长致辞\n        </div>\n        <div class=\"aoi title\">\n            <h2>馆长致辞</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>对于图书馆的赞美和推崇，莫过于阿根廷诗人博尔赫斯说的“如果这个世上真的有天堂，天堂应该是图书馆的模样”。</p>\n\n            <p>在这里，您可以寻一本专业书为求解难题；可以搜一篇文献为突破学术瓶颈；可以觅一部闲书为陶冶性情。在这里，您可以书写，可以思考，可以阅读，可以讨论，可以倘徉。在这里，您会因知识而解惑，因知识而成长，因知识而坚强，因知识而内心丰盈。\n            </p>\n\n",
+    "key": "aoi content|views/overview/LeaderSpeech.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/overview/LibIntro.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 本馆介绍\n        </div>\n        <div class=\"aoi title\">\n            <h2>本馆介绍</h2>\n        </div>\n",
+    "key": "aoi logo|views/overview/LibIntro.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/overview/LibIntro.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 本馆介绍\n        </div>\n        <div class=\"aoi title\">\n            <h2>本馆介绍</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/overview/LibIntro.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/overview/LibIntro.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 本馆介绍\n        </div>\n        <div class=\"aoi title\">\n            <h2>本馆介绍</h2>\n        </div>\n",
+    "key": "time aoi|views/overview/LibIntro.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/overview/LibIntro.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 本馆介绍\n        </div>\n        <div class=\"aoi title\">\n            <h2>本馆介绍</h2>\n        </div>\n",
+    "key": "aoi|views/overview/LibIntro.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/overview/LibIntro.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 本馆介绍\n        </div>\n        <div class=\"aoi title\">\n            <h2>本馆介绍</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/overview/LibIntro.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/overview/LibIntro.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 本馆介绍\n        </div>\n        <div class=\"aoi title\">\n            <h2>本馆介绍</h2>\n        </div>\n        <div class=\"aoi content\">\n            <img src=\"../../assets/libintro.jpg\" alt=\"图书馆\" class=\"float-image\" />\n            <p>北京工业大学图书馆始建于1960年，馆舍几经变迁，目前可供使用的有2处，分别位于校本部及通州校区。校本部图书馆于2019年9月启用，面积4万余平米，座位数3000余个；通州校区图书馆面积两千余平米，座位数500余个。图书馆实行藏、借、阅一体的开放式服务模式，每周开馆105小时。图书馆现有职工60余人，具有硕士以上学位的职工占三分之一以上。\n",
+    "key": "aoi title|views/overview/LibIntro.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/overview/LibIntro.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 图书馆概况 > 本馆介绍\n        </div>\n        <div class=\"aoi title\">\n            <h2>本馆介绍</h2>\n        </div>\n        <div class=\"aoi content\">\n            <img src=\"../../assets/libintro.jpg\" alt=\"图书馆\" class=\"float-image\" />\n            <p>北京工业大学图书馆始建于1960年，馆舍几经变迁，目前可供使用的有2处，分别位于校本部及通州校区。校本部图书馆于2019年9月启用，面积4万余平米，座位数3000余个；通州校区图书馆面积两千余平米，座位数500余个。图书馆实行藏、借、阅一体的开放式服务模式，每周开馆105小时。图书馆现有职工60余人，具有硕士以上学位的职工占三分之一以上。\n            </p>\n\n            <p>目前，我馆收藏中外文纸质图书两百万余册，中外文期刊杂志一千六百多种，并拥有丰富的电子资源，形成了以工科为主，理、工、文等多种学科兼有，纸本、电子、多媒体等多种类型的文献资源体系，基本上满足了学校的教学、科研的需求。\n",
+    "key": "aoi content|views/overview/LibIntro.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/overview/LibLayout.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 图书馆布局\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆布局</h2>\n        </div>\n",
+    "key": "aoi logo|views/overview/LibLayout.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/overview/LibLayout.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 图书馆布局\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆布局</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/overview/LibLayout.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/overview/LibLayout.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 图书馆布局\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆布局</h2>\n        </div>\n",
+    "key": "time aoi|views/overview/LibLayout.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/overview/LibLayout.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 图书馆布局\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆布局</h2>\n        </div>\n",
+    "key": "aoi|views/overview/LibLayout.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/overview/LibLayout.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 图书馆布局\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆布局</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/overview/LibLayout.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/overview/LibLayout.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 图书馆布局\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆布局</h2>\n        </div>\n        <div class=\"aoi content\">\n            <el-carousel height=\"65vh\" type=\"card\" arrow=\"always\" indicator-position=\"none\" :autoplay=\"false\">\n\n",
+    "key": "aoi title|views/overview/LibLayout.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/overview/LibLayout.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 图书馆概况 > 图书馆布局\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆布局</h2>\n        </div>\n        <div class=\"aoi content\">\n            <el-carousel height=\"65vh\" type=\"card\" arrow=\"always\" indicator-position=\"none\" :autoplay=\"false\">\n\n                <el-carousel-item>\n                    <img src=\"../../assets/layout/f2.jpg\" alt=\"图书馆布局2\" class=\"carousel-image\" />\n                </el-carousel-item>\n",
+    "key": "aoi content|views/overview/LibLayout.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/overview/LibRule.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 规章制度\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学图书馆读者违章处理办法</h2>\n        </div>\n",
+    "key": "aoi logo|views/overview/LibRule.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/overview/LibRule.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 规章制度\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学图书馆读者违章处理办法</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/overview/LibRule.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/overview/LibRule.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 规章制度\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学图书馆读者违章处理办法</h2>\n        </div>\n",
+    "key": "time aoi|views/overview/LibRule.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/overview/LibRule.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 规章制度\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学图书馆读者违章处理办法</h2>\n        </div>\n",
+    "key": "aoi|views/overview/LibRule.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/overview/LibRule.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 规章制度\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学图书馆读者违章处理办法</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/overview/LibRule.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/overview/LibRule.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 规章制度\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学图书馆读者违章处理办法</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>为了维护广大读者的公共利益，保持图书馆良好的环境和秩序，特制定本办法。</p>\n            <p>一、读者凭本人校园一卡通或借阅证刷卡入馆并自觉接受验证，拒绝出示证件入馆的将通知本人所在单位或保卫部门处理。</p>\n",
+    "key": "aoi title|views/overview/LibRule.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/overview/LibRule.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 图书馆概况 > 规章制度\n        </div>\n        <div class=\"aoi title\">\n            <h2>北京工业大学图书馆读者违章处理办法</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>为了维护广大读者的公共利益，保持图书馆良好的环境和秩序，特制定本办法。</p>\n            <p>一、读者凭本人校园一卡通或借阅证刷卡入馆并自觉接受验证，拒绝出示证件入馆的将通知本人所在单位或保卫部门处理。</p>\n            <p>二、校园一卡通或借阅证只限本人使用。将校园一卡通或借阅证转借他人使用的，自发现之日起停止借书和阅览1个月。</p>\n            <p>三、读者出馆应自觉接受防盗仪的检测。</p>\n            <p>四、读者应按期归还所借书刊，逾期不还者按0.1元/天/册缴纳逾期使用费，如因外出期间图书到期，应在离校前归还，如工作需要不能归还，应事先持单位证明来馆申明，否则应缴纳逾期使用费。</p>\n",
+    "key": "aoi content|views/overview/LibRule.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/resources/LibThesis.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 学位论文\n        </div>\n        <div class=\"aoi title\">\n            <h2>北工大学位论文</h2>\n        </div>\n",
+    "key": "aoi logo|views/resources/LibThesis.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/resources/LibThesis.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 学位论文\n        </div>\n        <div class=\"aoi title\">\n            <h2>北工大学位论文</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/resources/LibThesis.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/resources/LibThesis.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 学位论文\n        </div>\n        <div class=\"aoi title\">\n            <h2>北工大学位论文</h2>\n        </div>\n",
+    "key": "time aoi|views/resources/LibThesis.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/resources/LibThesis.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 学位论文\n        </div>\n        <div class=\"aoi title\">\n            <h2>北工大学位论文</h2>\n        </div>\n",
+    "key": "aoi|views/resources/LibThesis.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/resources/LibThesis.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 学位论文\n        </div>\n        <div class=\"aoi title\">\n            <h2>北工大学位论文</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/resources/LibThesis.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/resources/LibThesis.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 资源 > 学位论文\n        </div>\n        <div class=\"aoi title\">\n            <h2>北工大学位论文</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>北京工业大学学位论文库收录本校1997年以来公开的博士论文、1996年以来公开的硕士论文和2008年以来公开的部分优秀本科学位论文，校内用户可查阅下载全文。</p>\n\n",
+    "key": "aoi title|views/resources/LibThesis.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/resources/LibThesis.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 资源 > 学位论文\n        </div>\n        <div class=\"aoi title\">\n            <h2>北工大学位论文</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>北京工业大学学位论文库收录本校1997年以来公开的博士论文、1996年以来公开的硕士论文和2008年以来公开的部分优秀本科学位论文，校内用户可查阅下载全文。</p>\n\n            <p>论文查询网址：<a href=\"https://libthesis.bjut.edu.cn\" target=\"_blank\">https://libthesis.bjut.edu.cn</a></p>\n            <img src=\"../../assets/thesis.jpg\" alt=\"北工大学位论文\" class=\"thesis-image\" />\n        </div>\n",
+    "key": "aoi content|views/resources/LibThesis.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/services/SeatReserve.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 空间与设施\n        </div>\n        <div class=\"aoi key-aoi title\">\n            <h2>座位预约</h2>\n        </div>\n",
+    "key": "aoi logo|views/services/SeatReserve.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/services/SeatReserve.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 空间与设施\n        </div>\n        <div class=\"aoi key-aoi title\">\n            <h2>座位预约</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/services/SeatReserve.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/services/SeatReserve.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 空间与设施\n        </div>\n        <div class=\"aoi key-aoi title\">\n            <h2>座位预约</h2>\n        </div>\n",
+    "key": "time aoi|views/services/SeatReserve.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/services/SeatReserve.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 空间与设施\n        </div>\n        <div class=\"aoi key-aoi title\">\n            <h2>座位预约</h2>\n        </div>\n",
+    "key": "aoi|views/services/SeatReserve.vue:3"
+  },
+  {
+    "componentInfo": "el-menu-item aoip key-aoi",
+    "src_rel_path": "views/services/SeatReserve.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 空间与设施\n        </div>\n        <div class=\"aoi key-aoi title\">\n            <h2>座位预约</h2>\n        </div>\n        <div class=\"aoi key-aoi content\">\n            <p>欢迎使用座位预约系统，以下是座位预约的流程和使用方法：</p>\n            <p>\n",
+    "key": "el-menu-item aoip key-aoi|views/services/SeatReserve.vue:6"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/services/SeatReserve.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 空间与设施\n        </div>\n        <div class=\"aoi key-aoi title\">\n            <h2>座位预约</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/services/SeatReserve.vue:3"
+  },
+  {
+    "componentInfo": "aoi key-aoi title",
+    "src_rel_path": "views/services/SeatReserve.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 空间与设施\n        </div>\n        <div class=\"aoi key-aoi title\">\n            <h2>座位预约</h2>\n        </div>\n        <div class=\"aoi key-aoi content\">\n            <p>欢迎使用座位预约系统，以下是座位预约的流程和使用方法：</p>\n            <p>\n",
+    "key": "aoi key-aoi title|views/services/SeatReserve.vue:6"
+  },
+  {
+    "componentInfo": "aoi key-aoi content",
+    "src_rel_path": "views/services/SeatReserve.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 服务 > 空间与设施\n        </div>\n        <div class=\"aoi key-aoi title\">\n            <h2>座位预约</h2>\n        </div>\n        <div class=\"aoi key-aoi content\">\n            <p>欢迎使用座位预约系统，以下是座位预约的流程和使用方法：</p>\n            <p>\n                1. 本系统仅供本校学生使用，图书馆需通过刷卡或人脸识别进入。\n            </p>\n            <p>\n",
+    "key": "aoi key-aoi content|views/services/SeatReserve.vue:9"
+  },
+  {
+    "componentInfo": "aoi key-aoi start-button",
+    "src_rel_path": "views/services/SeatReserve.vue",
+    "line_number": 40,
+    "code_snippet": "            <p>\n                - 座位预约系统仅在工作日7:00-22:00开放，周末及节假日请提前安排。\n            </p>\n        </div>\n        <div class=\"button-container\">\n            <button class=\"aoi key-aoi start-button\" @click=\"navigateToReserve\">开始预约</button>\n        </div>\n    </div>\n</template>\n\n<script setup>\n",
+    "key": "aoi key-aoi start-button|views/services/SeatReserve.vue:40"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/reserve/SeatSelect.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"seat-layout\">\n        <div v-for=\"(seat, index) in seats\" :key=\"index\" class=\"aoi key-aoi seat\"\n            :class=\"{ booked: seat.status === 'booked', selected: seat.status === 'selected' }\"\n            @click=\"selectSeat(index)\">\n            <component :is=\"getIcon(seat.status)\" class=\"seat-icon\" :style=\"{ color: getIconColor(seat.status) }\" />\n            <span class=\"seat-number\">{{ index + 1 }}</span>\n        </div>\n",
+    "key": "aoi logo|views/reserve/SeatSelect.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/reserve/SeatSelect.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"seat-layout\">\n        <div v-for=\"(seat, index) in seats\" :key=\"index\" class=\"aoi key-aoi seat\"\n            :class=\"{ booked: seat.status === 'booked', selected: seat.status === 'selected' }\"\n            @click=\"selectSeat(index)\">\n            <component :is=\"getIcon(seat.status)\" class=\"seat-icon\" :style=\"{ color: getIconColor(seat.status) }\" />\n            <span class=\"seat-number\">{{ index + 1 }}</span>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/reserve/SeatSelect.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/reserve/SeatSelect.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"seat-layout\">\n        <div v-for=\"(seat, index) in seats\" :key=\"index\" class=\"aoi key-aoi seat\"\n            :class=\"{ booked: seat.status === 'booked', selected: seat.status === 'selected' }\"\n            @click=\"selectSeat(index)\">\n            <component :is=\"getIcon(seat.status)\" class=\"seat-icon\" :style=\"{ color: getIconColor(seat.status) }\" />\n            <span class=\"seat-number\">{{ index + 1 }}</span>\n        </div>\n",
+    "key": "time aoi|views/reserve/SeatSelect.vue:3"
+  },
+  {
+    "componentInfo": "el-step is-horizontal is-center aoi key-aoi",
+    "src_rel_path": "views/reserve/SeatSelect.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"seat-layout\">\n        <div v-for=\"(seat, index) in seats\" :key=\"index\" class=\"aoi key-aoi seat\"\n            :class=\"{ booked: seat.status === 'booked', selected: seat.status === 'selected' }\"\n            @click=\"selectSeat(index)\">\n            <component :is=\"getIcon(seat.status)\" class=\"seat-icon\" :style=\"{ color: getIconColor(seat.status) }\" />\n            <span class=\"seat-number\">{{ index + 1 }}</span>\n        </div>\n",
+    "key": "el-step is-horizontal is-center aoi key-aoi|views/reserve/SeatSelect.vue:3"
+  },
+  {
+    "componentInfo": "aoi key-aoi seat booked",
+    "src_rel_path": "views/reserve/SeatSelect.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"seat-layout\">\n        <div v-for=\"(seat, index) in seats\" :key=\"index\" class=\"aoi key-aoi seat\"\n            :class=\"{ booked: seat.status === 'booked', selected: seat.status === 'selected' }\"\n            @click=\"selectSeat(index)\">\n            <component :is=\"getIcon(seat.status)\" class=\"seat-icon\" :style=\"{ color: getIconColor(seat.status) }\" />\n            <span class=\"seat-number\">{{ index + 1 }}</span>\n        </div>\n",
+    "key": "aoi key-aoi seat booked|views/reserve/SeatSelect.vue:3"
+  },
+  {
+    "componentInfo": "aoi key-aoi seat",
+    "src_rel_path": "views/reserve/SeatSelect.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"seat-layout\">\n        <div v-for=\"(seat, index) in seats\" :key=\"index\" class=\"aoi key-aoi seat\"\n            :class=\"{ booked: seat.status === 'booked', selected: seat.status === 'selected' }\"\n            @click=\"selectSeat(index)\">\n            <component :is=\"getIcon(seat.status)\" class=\"seat-icon\" :style=\"{ color: getIconColor(seat.status) }\" />\n            <span class=\"seat-number\">{{ index + 1 }}</span>\n        </div>\n",
+    "key": "aoi key-aoi seat|views/reserve/SeatSelect.vue:3"
+  },
+  {
+    "componentInfo": "aoim key-aoi",
+    "src_rel_path": "views/reserve/SeatSelect.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"seat-layout\">\n        <div v-for=\"(seat, index) in seats\" :key=\"index\" class=\"aoi key-aoi seat\"\n            :class=\"{ booked: seat.status === 'booked', selected: seat.status === 'selected' }\"\n            @click=\"selectSeat(index)\">\n            <component :is=\"getIcon(seat.status)\" class=\"seat-icon\" :style=\"{ color: getIconColor(seat.status) }\" />\n            <span class=\"seat-number\">{{ index + 1 }}</span>\n        </div>\n",
+    "key": "aoim key-aoi|views/reserve/SeatSelect.vue:3"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/overview/ServiceOverview.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务一览\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务一览</h2>\n        </div>\n",
+    "key": "aoi logo|views/overview/ServiceOverview.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/overview/ServiceOverview.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务一览\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务一览</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/overview/ServiceOverview.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/overview/ServiceOverview.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务一览\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务一览</h2>\n        </div>\n",
+    "key": "time aoi|views/overview/ServiceOverview.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/overview/ServiceOverview.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务一览\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务一览</h2>\n        </div>\n",
+    "key": "aoi|views/overview/ServiceOverview.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/overview/ServiceOverview.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务一览\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务一览</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/overview/ServiceOverview.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/overview/ServiceOverview.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务一览\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务一览</h2>\n        </div>\n        <div class=\"aoi content\">\n            <table class=\"service-table\">\n                <thead>\n",
+    "key": "aoi title|views/overview/ServiceOverview.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/overview/ServiceOverview.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 图书馆概况 > 服务一览\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务一览</h2>\n        </div>\n        <div class=\"aoi content\">\n            <table class=\"service-table\">\n                <thead>\n                    <tr>\n                        <th>服务项目</th>\n                        <th>服务地点</th>\n",
+    "key": "aoi content|views/overview/ServiceOverview.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/overview/ServiceTime.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务时间\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务时间</h2>\n        </div>\n",
+    "key": "aoi logo|views/overview/ServiceTime.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/overview/ServiceTime.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务时间\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务时间</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/overview/ServiceTime.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/overview/ServiceTime.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务时间\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务时间</h2>\n        </div>\n",
+    "key": "time aoi|views/overview/ServiceTime.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/overview/ServiceTime.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务时间\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务时间</h2>\n        </div>\n",
+    "key": "aoi|views/overview/ServiceTime.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/overview/ServiceTime.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务时间\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务时间</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/overview/ServiceTime.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/overview/ServiceTime.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 图书馆概况 > 服务时间\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务时间</h2>\n        </div>\n        <div class=\"aoi content\">\n            <table class=\"service-table\">\n                <thead>\n",
+    "key": "aoi title|views/overview/ServiceTime.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/overview/ServiceTime.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 图书馆概况 > 服务时间\n        </div>\n        <div class=\"aoi title\">\n            <h2>服务时间</h2>\n        </div>\n        <div class=\"aoi content\">\n            <table class=\"service-table\">\n                <thead>\n                    <tr>\n                        <th>区域</th>\n                        <th>服务项目</th>\n",
+    "key": "aoi content|views/overview/ServiceTime.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/services/TechSearch.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 科技查新\n        </div>\n        <div class=\"aoi title\">\n            <h2>科技查新</h2>\n        </div>\n",
+    "key": "aoi logo|views/services/TechSearch.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/services/TechSearch.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 科技查新\n        </div>\n        <div class=\"aoi title\">\n            <h2>科技查新</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/services/TechSearch.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/services/TechSearch.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 科技查新\n        </div>\n        <div class=\"aoi title\">\n            <h2>科技查新</h2>\n        </div>\n",
+    "key": "time aoi|views/services/TechSearch.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/services/TechSearch.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 科技查新\n        </div>\n        <div class=\"aoi title\">\n            <h2>科技查新</h2>\n        </div>\n",
+    "key": "aoi|views/services/TechSearch.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/services/TechSearch.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 科技查新\n        </div>\n        <div class=\"aoi title\">\n            <h2>科技查新</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/services/TechSearch.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/services/TechSearch.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 科技查新\n        </div>\n        <div class=\"aoi title\">\n            <h2>科技查新</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>\n                北京工业大学科技查新站为教育部第七批理工类科技查新工作站（L33），面向校内外开展科研立项、成果鉴定、申报奖励、博士论文开题、学位论文内部公开、文献调研、专利等方面的科技查新服务。\n",
+    "key": "aoi title|views/services/TechSearch.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/services/TechSearch.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 服务 > 科技查新\n        </div>\n        <div class=\"aoi title\">\n            <h2>科技查新</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>\n                北京工业大学科技查新站为教育部第七批理工类科技查新工作站（L33），面向校内外开展科研立项、成果鉴定、申报奖励、博士论文开题、学位论文内部公开、文献调研、专利等方面的科技查新服务。\n            </p>\n            <p>\n                本查新站拥有包括多种专业数据库的丰富文献信息资源，查新人员专业背景齐全，具有教育部颁发的“科技查新员资格证书”或“科技查新审核员资格证书”及多年查新经历，可受理本校及周边企事业单位的理工类科研项目的查新。我站查新人员一定会本着客观公正的原则为委托人提供高质量的查新服务，并为委托人保守技术秘密。\n",
+    "key": "aoi content|views/services/TechSearch.vue:9"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/reserve/TimeSelect.vue",
+    "line_number": 4,
+    "code_snippet": "<template>\n    <div class=\"time-page\">\n        <div class=\"notice\">\n            <h3 class=\"aoi key-aoi\">温馨提示：</h3>\n            <ul class=\"aoi key-aoi\">\n                <li><strong>预约时间范围：</strong>您可以预约的时间为今天起至未来一周内的任意一天。请确保您的预约在开放时间内。</li>\n                <li><strong>开放时间：</strong>图书馆开放时间为每天的 <strong>7:30 AM</strong> 至 <strong>10:30 PM</strong>。请在此时间段内进行预约。\n                </li>\n                <li><strong>连续时段要求：</strong>所有预约均需选择连续的时段。请在预约时确保选择的时间段没有间断。</li>\n",
+    "key": "aoi logo|views/reserve/TimeSelect.vue:4"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/reserve/TimeSelect.vue",
+    "line_number": 4,
+    "code_snippet": "<template>\n    <div class=\"time-page\">\n        <div class=\"notice\">\n            <h3 class=\"aoi key-aoi\">温馨提示：</h3>\n            <ul class=\"aoi key-aoi\">\n                <li><strong>预约时间范围：</strong>您可以预约的时间为今天起至未来一周内的任意一天。请确保您的预约在开放时间内。</li>\n                <li><strong>开放时间：</strong>图书馆开放时间为每天的 <strong>7:30 AM</strong> 至 <strong>10:30 PM</strong>。请在此时间段内进行预约。\n                </li>\n                <li><strong>连续时段要求：</strong>所有预约均需选择连续的时段。请在预约时确保选择的时间段没有间断。</li>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/reserve/TimeSelect.vue:4"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/reserve/TimeSelect.vue",
+    "line_number": 4,
+    "code_snippet": "<template>\n    <div class=\"time-page\">\n        <div class=\"notice\">\n            <h3 class=\"aoi key-aoi\">温馨提示：</h3>\n            <ul class=\"aoi key-aoi\">\n                <li><strong>预约时间范围：</strong>您可以预约的时间为今天起至未来一周内的任意一天。请确保您的预约在开放时间内。</li>\n                <li><strong>开放时间：</strong>图书馆开放时间为每天的 <strong>7:30 AM</strong> 至 <strong>10:30 PM</strong>。请在此时间段内进行预约。\n                </li>\n                <li><strong>连续时段要求：</strong>所有预约均需选择连续的时段。请在预约时确保选择的时间段没有间断。</li>\n",
+    "key": "time aoi|views/reserve/TimeSelect.vue:4"
+  },
+  {
+    "componentInfo": "el-step is-horizontal is-center aoi key-aoi",
+    "src_rel_path": "views/reserve/TimeSelect.vue",
+    "line_number": 4,
+    "code_snippet": "<template>\n    <div class=\"time-page\">\n        <div class=\"notice\">\n            <h3 class=\"aoi key-aoi\">温馨提示：</h3>\n            <ul class=\"aoi key-aoi\">\n                <li><strong>预约时间范围：</strong>您可以预约的时间为今天起至未来一周内的任意一天。请确保您的预约在开放时间内。</li>\n                <li><strong>开放时间：</strong>图书馆开放时间为每天的 <strong>7:30 AM</strong> 至 <strong>10:30 PM</strong>。请在此时间段内进行预约。\n                </li>\n                <li><strong>连续时段要求：</strong>所有预约均需选择连续的时段。请在预约时确保选择的时间段没有间断。</li>\n",
+    "key": "el-step is-horizontal is-center aoi key-aoi|views/reserve/TimeSelect.vue:4"
+  },
+  {
+    "componentInfo": "aoi key-aoi",
+    "src_rel_path": "views/reserve/TimeSelect.vue",
+    "line_number": 4,
+    "code_snippet": "<template>\n    <div class=\"time-page\">\n        <div class=\"notice\">\n            <h3 class=\"aoi key-aoi\">温馨提示：</h3>\n            <ul class=\"aoi key-aoi\">\n                <li><strong>预约时间范围：</strong>您可以预约的时间为今天起至未来一周内的任意一天。请确保您的预约在开放时间内。</li>\n                <li><strong>开放时间：</strong>图书馆开放时间为每天的 <strong>7:30 AM</strong> 至 <strong>10:30 PM</strong>。请在此时间段内进行预约。\n                </li>\n                <li><strong>连续时段要求：</strong>所有预约均需选择连续的时段。请在预约时确保选择的时间段没有间断。</li>\n",
+    "key": "aoi key-aoi|views/reserve/TimeSelect.vue:4"
+  },
+  {
+    "componentInfo": "aoim key-aoi label",
+    "src_rel_path": "views/reserve/TimeSelect.vue",
+    "line_number": 14,
+    "code_snippet": "                <li><strong>连续时段要求：</strong>所有预约均需选择连续的时段。请在预约时确保选择的时间段没有间断。</li>\n            </ul>\n        </div>\n        <div class=\"datetime-picker\">\n            <div class=\"date-container\">\n                <div class=\"aoim key-aoi label\">预约日期：</div>\n                <div class=\"date-box\">\n                    <el-config-provider :locale=\"locale\">\n                        <el-date-picker class=\"aoim key-aoi dp\" v-model=\"selectedDate\" type=\"date\" placeholder=\"选择日期\"\n                            @change=\"handleDateChange\" :default-value=\"new Date(1998, 12)\" size=\"large\"\n                            :disabled-date=\"disabledDate\" :editable=\"false\" :popper-options=\"{\n",
+    "key": "aoim key-aoi label|views/reserve/TimeSelect.vue:14"
+  },
+  {
+    "componentInfo": "el-input el-input--large el-input--prefix el-input--suffix el-date-editor el-date-editor--date aoim key-aoi dp el-tooltip__trigger el-tooltip__trigger",
+    "src_rel_path": "views/reserve/TimeSelect.vue",
+    "line_number": 17,
+    "code_snippet": "        <div class=\"datetime-picker\">\n            <div class=\"date-container\">\n                <div class=\"aoim key-aoi label\">预约日期：</div>\n                <div class=\"date-box\">\n                    <el-config-provider :locale=\"locale\">\n                        <el-date-picker class=\"aoim key-aoi dp\" v-model=\"selectedDate\" type=\"date\" placeholder=\"选择日期\"\n                            @change=\"handleDateChange\" :default-value=\"new Date(1998, 12)\" size=\"large\"\n                            :disabled-date=\"disabledDate\" :editable=\"false\" :popper-options=\"{\n                                modifiers: [\n                                    {\n                                        name: 'flip',\n",
+    "key": "el-input el-input--large el-input--prefix el-input--suffix el-date-editor el-date-editor--date aoim key-aoi dp el-tooltip__trigger el-tooltip__trigger|views/reserve/TimeSelect.vue:17"
+  },
+  {
+    "componentInfo": "el-select aoi key-aoi",
+    "src_rel_path": "views/reserve/TimeSelect.vue",
+    "line_number": 4,
+    "code_snippet": "<template>\n    <div class=\"time-page\">\n        <div class=\"notice\">\n            <h3 class=\"aoi key-aoi\">温馨提示：</h3>\n            <ul class=\"aoi key-aoi\">\n                <li><strong>预约时间范围：</strong>您可以预约的时间为今天起至未来一周内的任意一天。请确保您的预约在开放时间内。</li>\n                <li><strong>开放时间：</strong>图书馆开放时间为每天的 <strong>7:30 AM</strong> 至 <strong>10:30 PM</strong>。请在此时间段内进行预约。\n                </li>\n                <li><strong>连续时段要求：</strong>所有预约均需选择连续的时段。请在预约时确保选择的时间段没有间断。</li>\n",
+    "key": "el-select aoi key-aoi|views/reserve/TimeSelect.vue:4"
+  },
+  {
+    "componentInfo": "aoim",
+    "src_rel_path": "views/reserve/TimeSelect.vue",
+    "line_number": 14,
+    "code_snippet": "                <li><strong>连续时段要求：</strong>所有预约均需选择连续的时段。请在预约时确保选择的时间段没有间断。</li>\n            </ul>\n        </div>\n        <div class=\"datetime-picker\">\n            <div class=\"date-container\">\n                <div class=\"aoim key-aoi label\">预约日期：</div>\n                <div class=\"date-box\">\n                    <el-config-provider :locale=\"locale\">\n                        <el-date-picker class=\"aoim key-aoi dp\" v-model=\"selectedDate\" type=\"date\" placeholder=\"选择日期\"\n                            @change=\"handleDateChange\" :default-value=\"new Date(1998, 12)\" size=\"large\"\n                            :disabled-date=\"disabledDate\" :editable=\"false\" :popper-options=\"{\n",
+    "key": "aoim|views/reserve/TimeSelect.vue:14"
+  },
+  {
+    "componentInfo": "aoim key-aoi",
+    "src_rel_path": "views/reserve/TimeSelect.vue",
+    "line_number": 14,
+    "code_snippet": "                <li><strong>连续时段要求：</strong>所有预约均需选择连续的时段。请在预约时确保选择的时间段没有间断。</li>\n            </ul>\n        </div>\n        <div class=\"datetime-picker\">\n            <div class=\"date-container\">\n                <div class=\"aoim key-aoi label\">预约日期：</div>\n                <div class=\"date-box\">\n                    <el-config-provider :locale=\"locale\">\n                        <el-date-picker class=\"aoim key-aoi dp\" v-model=\"selectedDate\" type=\"date\" placeholder=\"选择日期\"\n                            @change=\"handleDateChange\" :default-value=\"new Date(1998, 12)\" size=\"large\"\n                            :disabled-date=\"disabledDate\" :editable=\"false\" :popper-options=\"{\n",
+    "key": "aoim key-aoi|views/reserve/TimeSelect.vue:14"
+  },
+  {
+    "componentInfo": "aoi logo",
+    "src_rel_path": "views/services/VolunteerTeam.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 图书馆志愿服务团\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆志愿服务团</h2>\n        </div>\n",
+    "key": "aoi logo|views/services/VolunteerTeam.vue:3"
+  },
+  {
+    "componentInfo": "el-tabs el-tabs--top aoi nav",
+    "src_rel_path": "views/services/VolunteerTeam.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 图书馆志愿服务团\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆志愿服务团</h2>\n        </div>\n",
+    "key": "el-tabs el-tabs--top aoi nav|views/services/VolunteerTeam.vue:3"
+  },
+  {
+    "componentInfo": "time aoi",
+    "src_rel_path": "views/services/VolunteerTeam.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 图书馆志愿服务团\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆志愿服务团</h2>\n        </div>\n",
+    "key": "time aoi|views/services/VolunteerTeam.vue:3"
+  },
+  {
+    "componentInfo": "aoi",
+    "src_rel_path": "views/services/VolunteerTeam.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 图书馆志愿服务团\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆志愿服务团</h2>\n        </div>\n",
+    "key": "aoi|views/services/VolunteerTeam.vue:3"
+  },
+  {
+    "componentInfo": "aoi breadcrumb",
+    "src_rel_path": "views/services/VolunteerTeam.vue",
+    "line_number": 3,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 图书馆志愿服务团\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆志愿服务团</h2>\n        </div>\n",
+    "key": "aoi breadcrumb|views/services/VolunteerTeam.vue:3"
+  },
+  {
+    "componentInfo": "aoi title",
+    "src_rel_path": "views/services/VolunteerTeam.vue",
+    "line_number": 6,
+    "code_snippet": "<template>\n    <div class=\"main-content\">\n        <div class=\"aoi breadcrumb\">\n            您当前所在位置 ： 首页 > 服务 > 图书馆志愿服务团\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆志愿服务团</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>\n                无偿、公益、利他，图书馆精神与志愿者精神在本质上是高度契合的。在漫长的图书馆史上，志愿活动一直是图书馆发展的基石。同样，北京工业大学图书馆作为校园文化中心，她的完美运行，也必须依靠大量优秀的图书馆志愿者，北工大图书馆志愿服务团正是因此而生。\n",
+    "key": "aoi title|views/services/VolunteerTeam.vue:6"
+  },
+  {
+    "componentInfo": "aoi content",
+    "src_rel_path": "views/services/VolunteerTeam.vue",
+    "line_number": 9,
+    "code_snippet": "            您当前所在位置 ： 首页 > 服务 > 图书馆志愿服务团\n        </div>\n        <div class=\"aoi title\">\n            <h2>图书馆志愿服务团</h2>\n        </div>\n        <div class=\"aoi content\">\n            <p>\n                无偿、公益、利他，图书馆精神与志愿者精神在本质上是高度契合的。在漫长的图书馆史上，志愿活动一直是图书馆发展的基石。同样，北京工业大学图书馆作为校园文化中心，她的完美运行，也必须依靠大量优秀的图书馆志愿者，北工大图书馆志愿服务团正是因此而生。\n            </p>\n            <p>\n                图书馆志愿服务团是由图书馆指导成立的志愿者组织，秉持“以志愿者为本、以项目为中心”的管理理念，围绕“自我管理、自主运行、服务读者、服务图书馆”的宗旨开展各项活动，旨在吸纳所有热爱图书馆、有志愿服务精神的工大学子，一起建设更美好的北工大图书馆。\n",
+    "key": "aoi content|views/services/VolunteerTeam.vue:9"
+  }
+]

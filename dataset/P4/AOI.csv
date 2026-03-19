@@ -1,0 +1,540 @@
+x1,y1,x2,y2,isKeyAOI,componentInfo,view,is_designed_defect,mapped_defect_ids,is_reported_by_user,issue,src_index
+225,181,706,274,False,aoi logo,AncientRead,False,,False,False,views/services/AncientRead.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,AncientRead,True,1.1,False,False,views/services/AncientRead.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,AncientRead,True,1.1,False,False,views/services/AncientRead.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,AncientRead,True,1.1,False,False,views/services/AncientRead.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,AncientRead,True,1.1,False,False,views/services/AncientRead.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,AncientRead,True,1.1,False,False,views/services/AncientRead.vue:3
+2191,178,2335,304,False,time aoi,AncientRead,False,,False,False,views/services/AncientRead.vue:3
+301,410,741,464,False,aoi,AncientRead,False,,False,False,views/services/AncientRead.vue:3
+331,494,711,578,False,el-menu-item aoip,AncientRead,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,AncientRead,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,AncientRead,False,1.1,False,False,
+331,746,711,830,False,el-menu-item is-active aoip,AncientRead,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,AncientRead,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,AncientRead,False,1.1,False,False,
+331,998,711,1082,False,el-menu-item aoip,AncientRead,False,1.1,False,False,
+331,1082,711,1166,True,el-menu-item aoip key-aoi,AncientRead,False,1.1,False,False,
+331,1166,711,1250,False,el-menu-item aoip,AncientRead,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,AncientRead,False,,False,False,views/services/AncientRead.vue:3
+907,475,2096,529,False,aoi title,AncientRead,False,,False,False,views/services/AncientRead.vue:6
+907,559,2096,1423,False,aoi content,AncientRead,False,,False,False,views/services/AncientRead.vue:9
+225,181,706,274,False,aoi logo,BookBorrow,False,,False,False,views/services/BookBorrow.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,BookBorrow,False,1.1,False,False,views/services/BookBorrow.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,BookBorrow,False,1.1,False,False,views/services/BookBorrow.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,BookBorrow,False,1.1,False,False,views/services/BookBorrow.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,BookBorrow,False,1.1,False,False,views/services/BookBorrow.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,BookBorrow,False,1.1,False,False,views/services/BookBorrow.vue:3
+2191,178,2335,304,False,time aoi,BookBorrow,False,,False,False,views/services/BookBorrow.vue:3
+301,410,741,464,False,aoi,BookBorrow,False,,False,False,views/services/BookBorrow.vue:3
+331,494,711,578,False,el-menu-item aoip,BookBorrow,True,1.1,False,False,
+331,578,711,662,False,el-menu-item is-active aoip,BookBorrow,True,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,BookBorrow,True,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,BookBorrow,True,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,BookBorrow,True,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,BookBorrow,True,1.1,False,False,
+331,998,711,1082,False,el-menu-item aoip,BookBorrow,True,1.1,False,False,
+331,1082,711,1166,True,el-menu-item aoip key-aoi,BookBorrow,True,1.1,False,False,
+331,1166,711,1250,False,el-menu-item aoip,BookBorrow,True,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,BookBorrow,False,,False,False,views/services/BookBorrow.vue:3
+907,475,2096,529,False,aoi title,BookBorrow,False,,False,False,views/services/BookBorrow.vue:6
+907,559,2096,1363,False,aoi content,BookBorrow,False,,False,False,views/services/BookBorrow.vue:9
+1265,501,1294,569,True,aoi key-aoi target-point,Calibration1,False,,False,False,views/calibration/Calibration1.vue:3
+1265,501,1294,569,True,aoi key-aoi target-point,Calibration1Ready,False,,False,False,views/calibration/Calibration1Ready.vue:3
+815,951,844,1019,True,aoi key-aoi target-point,Calibration2,False,,False,False,views/calibration/Calibration2.vue:3
+815,951,844,1019,True,aoi key-aoi target-point,Calibration2Ready,False,,False,False,views/calibration/Calibration2Ready.vue:3
+1715,951,1744,1019,True,aoi key-aoi target-point,Calibration3,False,,False,False,views/calibration/Calibration3.vue:3
+1715,951,1744,1019,True,aoi key-aoi target-point,Calibration3Ready,False,,False,False,views/calibration/Calibration3Ready.vue:3
+1265,501,1294,569,True,aoi key-aoi target-point,CalibrationPage,False,,False,False,
+225,181,706,274,False,aoi logo,CardProcess,False,,False,False,views/services/CardProcess.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,CardProcess,True,1.1,False,False,views/services/CardProcess.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,CardProcess,True,1.1,False,False,views/services/CardProcess.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,CardProcess,True,1.1,False,False,views/services/CardProcess.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,CardProcess,True,1.1,False,False,views/services/CardProcess.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,CardProcess,True,1.1,False,False,views/services/CardProcess.vue:3
+2191,178,2335,304,False,time aoi,CardProcess,False,,False,False,views/services/CardProcess.vue:3
+301,410,741,464,False,aoi,CardProcess,False,,False,False,views/services/CardProcess.vue:3
+331,494,711,578,False,el-menu-item aoip,CardProcess,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,CardProcess,False,1.1,False,False,
+331,662,711,746,False,el-menu-item is-active aoip,CardProcess,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,CardProcess,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,CardProcess,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,CardProcess,False,1.1,False,False,
+331,998,711,1082,False,el-menu-item aoip,CardProcess,False,1.1,False,False,
+331,1082,711,1166,True,el-menu-item aoip key-aoi,CardProcess,False,1.1,False,False,
+331,1166,711,1250,False,el-menu-item aoip,CardProcess,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,CardProcess,False,,False,False,views/services/CardProcess.vue:3
+907,475,2096,529,False,aoi title,CardProcess,False,,False,False,views/services/CardProcess.vue:6
+907,559,2096,1234,False,aoi content,CardProcess,False,,False,False,views/services/CardProcess.vue:9
+225,181,706,274,False,aoi logo,CommonApp,False,,False,False,views/resources/CommonApp.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,CommonApp,True,1.1,False,False,views/resources/CommonApp.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,CommonApp,True,1.1,False,False,views/resources/CommonApp.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,CommonApp,True,1.1,False,False,views/resources/CommonApp.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,CommonApp,True,1.1,False,False,views/resources/CommonApp.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,CommonApp,True,1.1,False,False,views/resources/CommonApp.vue:3
+2191,178,2335,304,False,time aoi,CommonApp,False,,False,False,views/resources/CommonApp.vue:3
+301,410,741,464,False,aoi,CommonApp,False,,False,False,views/resources/CommonApp.vue:3
+331,494,711,578,False,el-menu-item aoip,CommonApp,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,CommonApp,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,CommonApp,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,CommonApp,False,1.1,False,False,
+331,830,711,914,False,el-menu-item is-active aoip,CommonApp,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,CommonApp,False,,False,False,views/resources/CommonApp.vue:3
+907,475,2096,529,False,aoi title,CommonApp,False,,False,False,views/resources/CommonApp.vue:6
+907,559,2096,1252,False,aoi content,CommonApp,False,,False,False,views/resources/CommonApp.vue:9
+225,181,706,274,False,aoi logo,ContactUs,False,,False,False,views/ContactUs.vue:5
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,ContactUs,True,1.1,False,False,views/ContactUs.vue:5
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,ContactUs,True,1.1,False,False,views/ContactUs.vue:5
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,ContactUs,True,1.1,False,False,views/ContactUs.vue:5
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,ContactUs,True,1.1,False,False,views/ContactUs.vue:5
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,ContactUs,True,1.1,False,False,views/ContactUs.vue:5
+2191,178,2335,304,False,time aoi,ContactUs,False,,False,False,views/ContactUs.vue:5
+300,409,741,463,False,aoi,ContactUs,False,,False,False,views/ContactUs.vue:5
+839,443,2162,527,False,aoi,ContactUs,False,,False,False,views/ContactUs.vue:5
+839,591,2162,1463,False,aoi content,ContactUs,False,,False,False,views/ContactUs.vue:12
+225,181,706,274,False,aoi logo,Copyright,False,,False,False,views/resources/Copyright.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,Copyright,True,1.1,False,False,views/resources/Copyright.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,Copyright,True,1.1,False,False,views/resources/Copyright.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,Copyright,True,1.1,False,False,views/resources/Copyright.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,Copyright,True,1.1,False,False,views/resources/Copyright.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,Copyright,True,1.1,False,False,views/resources/Copyright.vue:3
+2191,178,2335,304,False,time aoi,Copyright,False,,False,False,views/resources/Copyright.vue:3
+301,410,741,464,False,aoi,Copyright,False,,False,False,views/resources/Copyright.vue:3
+331,494,711,578,False,el-menu-item aoip,Copyright,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,Copyright,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,Copyright,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,Copyright,False,1.1,False,False,
+331,830,711,914,False,el-menu-item is-active aoip,Copyright,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,Copyright,False,,False,False,views/resources/Copyright.vue:3
+907,475,2096,529,False,aoi title,Copyright,False,,False,False,views/resources/Copyright.vue:6
+907,559,2096,1450,False,aoi content,Copyright,False,,False,False,views/resources/Copyright.vue:9
+225,181,706,274,False,aoi logo,CoreJournal,False,,False,False,views/resources/CoreJournal.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,CoreJournal,True,1.1,False,False,views/resources/CoreJournal.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,CoreJournal,True,1.1,False,False,views/resources/CoreJournal.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,CoreJournal,True,1.1,False,False,views/resources/CoreJournal.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,CoreJournal,True,1.1,False,False,views/resources/CoreJournal.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,CoreJournal,True,1.1,False,False,views/resources/CoreJournal.vue:3
+2191,178,2335,304,False,time aoi,CoreJournal,False,,False,False,views/resources/CoreJournal.vue:3
+301,410,741,464,False,aoi,CoreJournal,False,,False,False,views/resources/CoreJournal.vue:3
+331,494,711,578,False,el-menu-item aoip,CoreJournal,False,1.1,False,False,
+331,578,711,662,False,el-menu-item is-active aoip,CoreJournal,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,CoreJournal,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,CoreJournal,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,CoreJournal,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,CoreJournal,False,,False,False,views/resources/CoreJournal.vue:3
+907,475,2096,529,False,aoi title,CoreJournal,False,,False,False,views/resources/CoreJournal.vue:6
+907,559,2096,1255,False,aoi content,CoreJournal,False,,False,False,views/resources/CoreJournal.vue:9
+225,181,706,274,False,aoi logo,DiscRequest,False,,False,False,views/services/DiscRequest.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,DiscRequest,True,1.1,False,False,views/services/DiscRequest.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,DiscRequest,True,1.1,False,False,views/services/DiscRequest.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,DiscRequest,True,1.1,False,False,views/services/DiscRequest.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,DiscRequest,True,1.1,False,False,views/services/DiscRequest.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,DiscRequest,True,1.1,False,False,views/services/DiscRequest.vue:3
+2191,178,2335,304,False,time aoi,DiscRequest,False,,False,False,views/services/DiscRequest.vue:3
+301,410,741,464,False,aoi,DiscRequest,False,,False,False,views/services/DiscRequest.vue:3
+331,494,711,578,False,el-menu-item aoip,DiscRequest,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,DiscRequest,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,DiscRequest,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,DiscRequest,False,1.1,False,False,
+331,830,711,914,False,el-menu-item is-active aoip,DiscRequest,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,DiscRequest,False,1.1,False,False,
+331,998,711,1082,False,el-menu-item aoip,DiscRequest,False,1.1,False,False,
+331,1082,711,1166,True,el-menu-item aoip key-aoi,DiscRequest,False,1.1,False,False,
+331,1166,711,1250,False,el-menu-item aoip,DiscRequest,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,DiscRequest,False,,False,False,views/services/DiscRequest.vue:3
+907,475,2096,529,False,aoi title,DiscRequest,False,,False,False,views/services/DiscRequest.vue:6
+907,559,2096,1423,False,aoi content,DiscRequest,False,,False,False,views/services/DiscRequest.vue:9
+225,181,706,274,False,aoi logo,DocumentTransfer,False,,False,False,views/services/DocumentTransfer.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,DocumentTransfer,True,1.1,False,False,views/services/DocumentTransfer.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,DocumentTransfer,True,1.1,False,False,views/services/DocumentTransfer.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,DocumentTransfer,True,1.1,False,False,views/services/DocumentTransfer.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,DocumentTransfer,True,1.1,False,False,views/services/DocumentTransfer.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,DocumentTransfer,True,1.1,False,False,views/services/DocumentTransfer.vue:3
+2191,178,2335,304,False,time aoi,DocumentTransfer,False,,False,False,views/services/DocumentTransfer.vue:3
+301,410,741,464,False,aoi,DocumentTransfer,False,,False,False,views/services/DocumentTransfer.vue:3
+331,494,711,578,False,el-menu-item aoip,DocumentTransfer,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,DocumentTransfer,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,DocumentTransfer,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,DocumentTransfer,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,DocumentTransfer,False,1.1,False,False,
+331,914,711,998,False,el-menu-item is-active aoip,DocumentTransfer,False,1.1,False,False,
+331,998,711,1082,False,el-menu-item aoip,DocumentTransfer,False,1.1,False,False,
+331,1082,711,1166,True,el-menu-item aoip key-aoi,DocumentTransfer,False,1.1,False,False,
+331,1166,711,1250,False,el-menu-item aoip,DocumentTransfer,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,DocumentTransfer,False,,False,False,views/services/DocumentTransfer.vue:3
+907,475,2096,529,False,aoi title,DocumentTransfer,False,,False,False,views/services/DocumentTransfer.vue:6
+907,559,2096,1423,False,aoi content,DocumentTransfer,False,,False,False,views/services/DocumentTransfer.vue:9
+225,181,706,274,False,aoi logo,EBook,False,,False,False,views/resources/EBook.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,EBook,True,1.1,False,False,views/resources/EBook.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,EBook,True,1.1,False,False,views/resources/EBook.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,EBook,True,1.1,False,False,views/resources/EBook.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,EBook,True,1.1,False,False,views/resources/EBook.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,EBook,True,1.1,False,False,views/resources/EBook.vue:3
+2191,178,2335,304,False,time aoi,EBook,False,,False,False,views/resources/EBook.vue:3
+301,410,741,464,False,aoi,EBook,False,,False,False,views/resources/EBook.vue:3
+331,494,711,578,False,el-menu-item aoip,EBook,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,EBook,False,1.1,False,False,
+331,662,711,746,False,el-menu-item is-active aoip,EBook,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,EBook,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,EBook,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,EBook,False,,False,False,views/resources/EBook.vue:3
+907,475,2096,529,False,aoi title,EBook,False,,False,False,views/resources/EBook.vue:6
+907,560,2096,1462,False,aoi content,EBook,False,,False,False,views/resources/EBook.vue:9
+225,181,706,274,False,aoi logo,FloorSelect,False,,False,False,views/reserve/FloorSelect.vue:6
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,FloorSelect,False,1.1,False,False,views/reserve/FloorSelect.vue:6
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,FloorSelect,False,1.1,False,False,views/reserve/FloorSelect.vue:6
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,FloorSelect,False,1.1,False,False,views/reserve/FloorSelect.vue:6
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,FloorSelect,False,1.1,False,False,views/reserve/FloorSelect.vue:6
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,FloorSelect,False,1.1,False,False,views/reserve/FloorSelect.vue:6
+2191,178,2335,304,False,time aoi,FloorSelect,False,,False,False,views/reserve/FloorSelect.vue:6
+896,398,1088,522,True,el-step is-horizontal is-center aoi key-aoi,FloorSelect,False,,False,False,views/reserve/FloorSelect.vue:24
+1088,398,1280,522,False,el-step is-horizontal is-center aoi key-aoi,FloorSelect,False,,False,False,views/reserve/FloorSelect.vue:24
+1280,398,1472,522,False,el-step is-horizontal is-center aoi key-aoi,FloorSelect,False,,False,False,views/reserve/FloorSelect.vue:24
+1472,398,1664,522,False,el-step is-horizontal is-center aoi key-aoi,FloorSelect,False,,False,False,views/reserve/FloorSelect.vue:24
+301,549,901,789,False,aoi img f2,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:6
+991,576,1301,762,False,aoi section,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:10
+1301,576,1611,762,False,aoi section,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:10
+1611,576,1921,762,False,aoi section,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:10
+1921,576,2231,762,False,aoi section,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:10
+301,790,901,1102,True,aoi key-aoi img f3,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:24
+991,817,1404,1075,True,aoi key-aoi section,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:28
+1404,817,1818,1075,True,aoi key-aoi section,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:28
+1818,817,2231,1075,True,aoi key-aoi section,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:28
+301,1100,901,1412,False,aoi img f4,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:42
+991,1127,1404,1385,False,aoi section,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:10
+1404,1127,1818,1385,False,aoi section,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:10
+1818,1127,2231,1385,False,aoi section,FloorSelect,True,"2.1,2.2",False,False,views/reserve/FloorSelect.vue:10
+1118,1462,1280,1522,False,aoim,FloorSelect,False,,False,False,
+1280,1462,1442,1522,True,aoim key-aoi,FloorSelect,False,,False,False,views/reserve/FloorSelect.vue:24
+225,181,706,274,False,aoi logo,HomePage,False,,False,False,views/HomePage.vue:7
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,HomePage,True,1.1,False,False,views/HomePage.vue:7
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,HomePage,True,1.1,False,False,views/HomePage.vue:7
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,HomePage,True,1.1,False,False,views/HomePage.vue:7
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,HomePage,True,1.1,False,False,views/HomePage.vue:7
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,HomePage,True,1.1,False,False,views/HomePage.vue:7
+2191,178,2335,304,False,time aoi,HomePage,False,,False,False,views/HomePage.vue:7
+645,484,900,552,False,active aoim filter-button,HomePage,False,,False,False,
+900,484,1155,552,False,aoim filter-button,HomePage,False,,False,False,
+1155,484,1440,552,False,aoim filter-button,HomePage,False,,False,False,
+645,567,1702,657,False,aoim sinput,HomePage,False,1.2,False,False,
+1702,567,1915,657,False,aoim sbtn,HomePage,False,1.2,False,False,
+255,837,1003,896,False,aoi,HomePage,False,,False,False,views/HomePage.vue:7
+255,911,1003,1361,False,aoi carousel-container,HomePage,False,,False,False,views/HomePage.vue:7
+1153,867,2215,926,False,aoi header,HomePage,False,,False,False,views/HomePage.vue:7
+1153,926,2215,1355,False,el-table--fit el-table--enable-row-hover el-table--enable-row-transition el-table el-table--layout-fixed aoi tab is-scrolling-none,HomePage,False,,False,False,views/HomePage.vue:7
+0,1436,2560,1523,False,aoi footer,HomePage,False,,False,False,views/HomePage.vue:16
+225,181,706,274,False,aoi logo,InfoConfirm,False,,False,False,
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,InfoConfirm,False,1.1,False,False,
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,InfoConfirm,False,1.1,False,False,
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,InfoConfirm,False,1.1,False,False,
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,InfoConfirm,False,1.1,False,False,
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,InfoConfirm,False,1.1,False,False,
+2191,178,2335,304,False,time aoi,InfoConfirm,False,,False,False,
+896,398,1088,522,False,el-step is-horizontal is-center aoi key-aoi,InfoConfirm,False,,False,False,views/reserve/InfoConfirm.vue:3
+1088,398,1280,522,False,el-step is-horizontal is-center aoi key-aoi,InfoConfirm,False,,False,False,views/reserve/InfoConfirm.vue:3
+1280,398,1472,522,False,el-step is-horizontal is-center aoi key-aoi,InfoConfirm,False,,False,False,views/reserve/InfoConfirm.vue:3
+1472,398,1664,522,True,el-step is-horizontal is-center aoi key-aoi,InfoConfirm,False,,False,False,views/reserve/InfoConfirm.vue:3
+915,563,1645,619,True,aoip key-aoi alert-message,InfoConfirm,True,5.2,False,False,views/reserve/InfoConfirm.vue:3
+1040,703,1520,809,True,aoim key-aoi,InfoConfirm,True,5.1,True,True,views/reserve/InfoConfirm.vue:9
+1040,797,1520,862,True,aoim key-aoi,InfoConfirm,True,5.1,True,True,views/reserve/InfoConfirm.vue:9
+1040,850,1520,914,True,aoim key-aoi,InfoConfirm,True,5.1,True,True,views/reserve/InfoConfirm.vue:9
+1040,902,1520,967,True,aoim key-aoi,InfoConfirm,True,5.1,True,True,views/reserve/InfoConfirm.vue:9
+1040,955,1520,1019,True,aoim key-aoi,InfoConfirm,True,5.1,True,True,views/reserve/InfoConfirm.vue:9
+1130,1462,1292,1522,False,aoim,InfoConfirm,False,5.1,True,False,views/reserve/InfoConfirm.vue:9
+1292,1462,1430,1522,True,aoim key-aoi,InfoConfirm,True,5.1,True,True,views/reserve/InfoConfirm.vue:9
+225,181,706,274,False,aoi logo,InfoTeaching,False,,False,False,views/services/InfoTeaching.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,InfoTeaching,True,1.1,False,False,views/services/InfoTeaching.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,InfoTeaching,True,1.1,False,False,views/services/InfoTeaching.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,InfoTeaching,True,1.1,False,False,views/services/InfoTeaching.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,InfoTeaching,True,1.1,False,False,views/services/InfoTeaching.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,InfoTeaching,True,1.1,False,False,views/services/InfoTeaching.vue:3
+2191,178,2335,304,False,time aoi,InfoTeaching,False,,False,False,views/services/InfoTeaching.vue:3
+301,410,741,464,False,aoi,InfoTeaching,False,,False,False,views/services/InfoTeaching.vue:3
+331,494,711,578,False,el-menu-item aoip,InfoTeaching,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,InfoTeaching,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,InfoTeaching,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,InfoTeaching,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,InfoTeaching,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,InfoTeaching,False,1.1,False,False,
+331,998,711,1082,False,el-menu-item aoip,InfoTeaching,False,1.1,False,False,
+331,1082,711,1166,True,el-menu-item is-active aoip key-aoi,InfoTeaching,False,1.1,False,False,
+331,1166,711,1250,False,el-menu-item aoip,InfoTeaching,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,InfoTeaching,False,,False,False,views/services/InfoTeaching.vue:3
+907,475,2096,529,False,aoi title,InfoTeaching,False,,False,False,views/services/InfoTeaching.vue:6
+907,559,2096,1372,False,aoi content,InfoTeaching,False,,False,False,views/services/InfoTeaching.vue:9
+225,181,706,274,False,aoi logo,LeaderSpeech,False,,False,False,views/overview/LeaderSpeech.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,LeaderSpeech,True,1.1,False,False,views/overview/LeaderSpeech.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,LeaderSpeech,True,1.1,False,False,views/overview/LeaderSpeech.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,LeaderSpeech,True,1.1,False,False,views/overview/LeaderSpeech.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,LeaderSpeech,True,1.1,False,False,views/overview/LeaderSpeech.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,LeaderSpeech,True,1.1,False,False,views/overview/LeaderSpeech.vue:3
+2191,178,2335,304,False,time aoi,LeaderSpeech,False,,False,False,views/overview/LeaderSpeech.vue:3
+301,410,741,464,False,aoi,LeaderSpeech,False,,False,False,views/overview/LeaderSpeech.vue:3
+331,494,711,578,False,el-menu-item aoip,LeaderSpeech,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,LeaderSpeech,False,1.1,False,False,
+331,662,711,746,False,el-menu-item is-active aoip,LeaderSpeech,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,LeaderSpeech,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,LeaderSpeech,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,LeaderSpeech,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,LeaderSpeech,False,,False,False,views/overview/LeaderSpeech.vue:3
+907,475,2096,529,False,aoi title,LeaderSpeech,False,,False,False,views/overview/LeaderSpeech.vue:6
+907,559,2096,1471,False,aoi content,LeaderSpeech,False,,False,False,views/overview/LeaderSpeech.vue:9
+225,181,706,274,False,aoi logo,LibIntro,False,,False,False,views/overview/LibIntro.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,LibIntro,True,1.1,False,False,views/overview/LibIntro.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,LibIntro,True,1.1,False,False,views/overview/LibIntro.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,LibIntro,True,1.1,False,False,views/overview/LibIntro.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,LibIntro,True,1.1,False,False,views/overview/LibIntro.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,LibIntro,True,1.1,False,False,views/overview/LibIntro.vue:3
+2191,178,2335,304,False,time aoi,LibIntro,False,,False,False,views/overview/LibIntro.vue:3
+301,410,741,464,False,aoi,LibIntro,False,,False,False,views/overview/LibIntro.vue:3
+331,494,711,578,False,el-menu-item aoip,LibIntro,False,1.1,False,False,
+331,578,711,662,False,el-menu-item is-active aoip,LibIntro,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,LibIntro,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,LibIntro,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,LibIntro,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,LibIntro,False,1.1,False,False,
+907,379,2096,415,False,aoi breadcrumb,LibIntro,False,,False,False,views/overview/LibIntro.vue:3
+907,445,2096,499,False,aoi title,LibIntro,False,,False,False,views/overview/LibIntro.vue:6
+907,529,2096,1436,False,aoi content,LibIntro,False,,False,False,views/overview/LibIntro.vue:9
+225,181,706,274,False,aoi logo,LibLayout,False,,False,False,views/overview/LibLayout.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,LibLayout,True,1.1,False,False,views/overview/LibLayout.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,LibLayout,True,1.1,False,False,views/overview/LibLayout.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,LibLayout,True,1.1,False,False,views/overview/LibLayout.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,LibLayout,True,1.1,False,False,views/overview/LibLayout.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,LibLayout,True,1.1,False,False,views/overview/LibLayout.vue:3
+2191,178,2335,304,False,time aoi,LibLayout,False,,False,False,views/overview/LibLayout.vue:3
+301,410,741,464,False,aoi,LibLayout,False,,False,False,views/overview/LibLayout.vue:3
+331,494,711,578,False,el-menu-item aoip,LibLayout,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,LibLayout,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,LibLayout,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,LibLayout,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,LibLayout,False,1.1,False,False,
+331,914,711,998,False,el-menu-item is-active aoip,LibLayout,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,LibLayout,False,,False,False,views/overview/LibLayout.vue:3
+907,475,2096,529,False,aoi title,LibLayout,False,,False,False,views/overview/LibLayout.vue:6
+907,559,2096,1484,False,aoi content,LibLayout,False,,False,False,views/overview/LibLayout.vue:9
+225,181,706,274,False,aoi logo,LibRule,False,,False,False,views/overview/LibRule.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,LibRule,True,1.1,False,False,views/overview/LibRule.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,LibRule,True,1.1,False,False,views/overview/LibRule.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,LibRule,True,1.1,False,False,views/overview/LibRule.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,LibRule,True,1.1,False,False,views/overview/LibRule.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,LibRule,True,1.1,False,False,views/overview/LibRule.vue:3
+2191,178,2335,304,False,time aoi,LibRule,False,,False,False,views/overview/LibRule.vue:3
+301,410,741,464,False,aoi,LibRule,False,,False,False,views/overview/LibRule.vue:3
+331,494,711,578,False,el-menu-item aoip,LibRule,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,LibRule,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,LibRule,False,1.1,False,False,
+331,746,711,830,False,el-menu-item is-active aoip,LibRule,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,LibRule,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,LibRule,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,LibRule,False,,False,False,views/overview/LibRule.vue:3
+907,475,2096,524,False,aoi title,LibRule,False,,False,False,views/overview/LibRule.vue:6
+907,552,2096,1389,False,aoi content,LibRule,False,,False,False,views/overview/LibRule.vue:9
+225,181,706,274,False,aoi logo,LibThesis,False,,False,False,views/resources/LibThesis.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,LibThesis,True,1.1,False,False,views/resources/LibThesis.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,LibThesis,True,1.1,False,False,views/resources/LibThesis.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,LibThesis,True,1.1,False,False,views/resources/LibThesis.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,LibThesis,True,1.1,False,False,views/resources/LibThesis.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,LibThesis,True,1.1,False,False,views/resources/LibThesis.vue:3
+2191,178,2335,304,False,time aoi,LibThesis,False,,False,False,views/resources/LibThesis.vue:3
+301,410,741,464,False,aoi,LibThesis,False,,False,False,views/resources/LibThesis.vue:3
+331,494,711,578,False,el-menu-item aoip,LibThesis,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,LibThesis,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,LibThesis,False,1.1,False,False,
+331,746,711,830,False,el-menu-item is-active aoip,LibThesis,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,LibThesis,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,LibThesis,False,,False,False,views/resources/LibThesis.vue:3
+907,475,2096,529,False,aoi title,LibThesis,False,,False,False,views/resources/LibThesis.vue:6
+907,559,2096,1476,False,aoi content,LibThesis,False,,False,False,views/resources/LibThesis.vue:9
+225,181,706,274,False,aoi logo,SeatReserve,False,,False,False,views/services/SeatReserve.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,SeatReserve,True,1.1,False,False,views/services/SeatReserve.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,SeatReserve,True,1.1,False,False,views/services/SeatReserve.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,SeatReserve,True,1.1,False,False,views/services/SeatReserve.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,SeatReserve,True,1.1,False,False,views/services/SeatReserve.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,SeatReserve,True,1.1,False,False,views/services/SeatReserve.vue:3
+2191,178,2335,304,False,time aoi,SeatReserve,False,,False,False,views/services/SeatReserve.vue:3
+301,410,741,464,False,aoi,SeatReserve,False,,False,False,views/services/SeatReserve.vue:3
+331,494,711,578,False,el-menu-item aoip,SeatReserve,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,SeatReserve,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,SeatReserve,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,SeatReserve,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,SeatReserve,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,SeatReserve,False,1.1,False,False,
+331,998,711,1082,False,el-menu-item aoip,SeatReserve,False,1.1,False,False,
+331,1082,711,1166,True,el-menu-item aoip key-aoi,SeatReserve,False,1.1,False,False,views/services/SeatReserve.vue:6
+331,1166,711,1250,False,el-menu-item is-active aoip,SeatReserve,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,SeatReserve,False,,False,False,views/services/SeatReserve.vue:3
+907,475,2096,529,True,aoi key-aoi title,SeatReserve,False,,False,False,views/services/SeatReserve.vue:6
+907,559,2096,1099,True,aoi key-aoi content,SeatReserve,False,,False,False,views/services/SeatReserve.vue:9
+1399,1144,1603,1220,True,aoi key-aoi start-button,SeatReserve,False,,False,False,views/services/SeatReserve.vue:40
+225,181,706,274,False,aoi logo,SeatSelect,False,,False,False,views/reserve/SeatSelect.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,SeatSelect,False,1.1,False,False,views/reserve/SeatSelect.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,SeatSelect,False,1.1,False,False,views/reserve/SeatSelect.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,SeatSelect,False,1.1,False,False,views/reserve/SeatSelect.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,SeatSelect,False,1.1,False,False,views/reserve/SeatSelect.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,SeatSelect,False,1.1,False,False,views/reserve/SeatSelect.vue:3
+2191,178,2335,304,False,time aoi,SeatSelect,False,,False,False,views/reserve/SeatSelect.vue:3
+896,398,1088,522,False,el-step is-horizontal is-center aoi key-aoi,SeatSelect,False,,False,False,views/reserve/SeatSelect.vue:3
+1088,398,1280,522,False,el-step is-horizontal is-center aoi key-aoi,SeatSelect,False,,False,False,views/reserve/SeatSelect.vue:3
+1280,398,1472,522,True,el-step is-horizontal is-center aoi key-aoi,SeatSelect,False,,False,False,views/reserve/SeatSelect.vue:3
+1472,398,1664,522,False,el-step is-horizontal is-center aoi key-aoi,SeatSelect,False,,False,False,views/reserve/SeatSelect.vue:3
+330,578,507,685,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+522,578,698,685,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+713,578,889,685,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+904,578,1081,685,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1096,578,1273,685,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1287,578,1464,685,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1479,578,1656,685,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1670,578,1847,685,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1862,578,2039,685,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+2054,578,2230,685,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+330,700,507,807,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+522,700,698,807,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+713,700,889,807,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+904,700,1081,807,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1096,700,1273,807,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1287,700,1464,807,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1479,700,1656,807,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1670,700,1847,807,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1862,700,2039,807,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+2054,700,2230,807,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+330,822,507,929,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+522,822,698,929,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+713,822,889,929,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+904,822,1081,929,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1096,822,1273,929,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1287,822,1464,929,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1479,822,1656,929,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1670,822,1847,929,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1862,822,2039,929,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+2054,822,2230,929,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+330,944,507,1051,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+522,944,698,1051,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+713,944,889,1051,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+904,944,1081,1051,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1096,944,1273,1051,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1287,944,1464,1051,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1479,944,1656,1051,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1670,944,1847,1051,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1862,944,2039,1051,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+2054,944,2230,1051,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+330,1066,507,1173,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+522,1066,698,1173,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+713,1066,889,1173,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+904,1066,1081,1173,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1096,1066,1273,1173,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1287,1066,1464,1173,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1479,1066,1656,1173,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1670,1066,1847,1173,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1862,1066,2039,1173,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+2054,1066,2230,1173,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+330,1188,507,1295,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+522,1188,698,1295,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+713,1188,889,1295,False,aoi key-aoi seat booked,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+904,1188,1081,1295,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1096,1188,1273,1295,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1287,1188,1464,1295,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1479,1188,1656,1295,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1670,1188,1847,1295,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1862,1188,2039,1295,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+2054,1188,2230,1295,True,aoi key-aoi seat,SeatSelect,True,"4.1,4.2,4.3",True,True,views/reserve/SeatSelect.vue:3
+1130,1462,1292,1522,False,aoim,SeatSelect,False,,False,False,
+1292,1462,1430,1522,True,aoim key-aoi,SeatSelect,False,,False,False,views/reserve/SeatSelect.vue:3
+225,181,706,274,False,aoi logo,ServiceOverview,False,,False,False,views/overview/ServiceOverview.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,ServiceOverview,True,1.1,False,False,views/overview/ServiceOverview.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,ServiceOverview,True,1.1,False,False,views/overview/ServiceOverview.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,ServiceOverview,True,1.1,False,False,views/overview/ServiceOverview.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,ServiceOverview,True,1.1,False,False,views/overview/ServiceOverview.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,ServiceOverview,True,1.1,False,False,views/overview/ServiceOverview.vue:3
+2191,178,2335,304,False,time aoi,ServiceOverview,False,,False,False,views/overview/ServiceOverview.vue:3
+301,410,741,464,False,aoi,ServiceOverview,False,,False,False,views/overview/ServiceOverview.vue:3
+331,494,711,578,False,el-menu-item aoip,ServiceOverview,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,ServiceOverview,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,ServiceOverview,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,ServiceOverview,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,ServiceOverview,False,1.1,False,False,
+331,914,711,998,False,el-menu-item is-active aoip,ServiceOverview,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,ServiceOverview,False,,False,False,views/overview/ServiceOverview.vue:3
+907,475,2096,529,False,aoi title,ServiceOverview,False,,False,False,views/overview/ServiceOverview.vue:6
+907,559,2096,1450,False,aoi content,ServiceOverview,False,,False,False,views/overview/ServiceOverview.vue:9
+225,181,706,274,False,aoi logo,ServiceTime,False,,False,False,views/overview/ServiceTime.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,ServiceTime,True,1.1,False,False,views/overview/ServiceTime.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,ServiceTime,True,1.1,False,False,views/overview/ServiceTime.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,ServiceTime,True,1.1,False,False,views/overview/ServiceTime.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,ServiceTime,True,1.1,False,False,views/overview/ServiceTime.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,ServiceTime,True,1.1,False,False,views/overview/ServiceTime.vue:3
+2191,178,2335,304,False,time aoi,ServiceTime,False,,False,False,views/overview/ServiceTime.vue:3
+301,410,741,464,False,aoi,ServiceTime,False,,False,False,views/overview/ServiceTime.vue:3
+331,494,711,578,False,el-menu-item aoip,ServiceTime,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,ServiceTime,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,ServiceTime,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,ServiceTime,False,1.1,False,False,
+331,830,711,914,False,el-menu-item is-active aoip,ServiceTime,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,ServiceTime,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,ServiceTime,False,,False,False,views/overview/ServiceTime.vue:3
+907,475,2096,529,False,aoi title,ServiceTime,False,,False,False,views/overview/ServiceTime.vue:6
+907,559,2096,1383,False,aoi content,ServiceTime,False,,False,False,views/overview/ServiceTime.vue:9
+225,181,706,274,False,aoi logo,TechSearch,False,,False,False,views/services/TechSearch.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,TechSearch,True,1.1,False,False,views/services/TechSearch.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,TechSearch,True,1.1,False,False,views/services/TechSearch.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,TechSearch,True,1.1,False,False,views/services/TechSearch.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,TechSearch,True,1.1,False,False,views/services/TechSearch.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,TechSearch,True,1.1,False,False,views/services/TechSearch.vue:3
+2191,178,2335,304,False,time aoi,TechSearch,False,,False,False,views/services/TechSearch.vue:3
+301,410,741,464,False,aoi,TechSearch,False,,False,False,views/services/TechSearch.vue:3
+331,494,711,578,False,el-menu-item aoip,TechSearch,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,TechSearch,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,TechSearch,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,TechSearch,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,TechSearch,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,TechSearch,False,1.1,False,False,
+331,998,711,1082,False,el-menu-item is-active aoip,TechSearch,False,1.1,False,False,
+331,1082,711,1166,True,el-menu-item aoip key-aoi,TechSearch,False,1.1,False,False,
+331,1166,711,1250,False,el-menu-item aoip,TechSearch,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,TechSearch,False,,False,False,views/services/TechSearch.vue:3
+907,475,2096,529,False,aoi title,TechSearch,False,,False,False,views/services/TechSearch.vue:6
+907,559,2096,1369,False,aoi content,TechSearch,False,,False,False,views/services/TechSearch.vue:9
+225,181,706,274,False,aoi logo,TimeSelect,False,,False,False,views/reserve/TimeSelect.vue:4
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,TimeSelect,False,1.1,False,False,views/reserve/TimeSelect.vue:4
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,TimeSelect,False,1.1,False,False,views/reserve/TimeSelect.vue:4
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,TimeSelect,False,1.1,False,False,views/reserve/TimeSelect.vue:4
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,TimeSelect,False,1.1,False,False,views/reserve/TimeSelect.vue:4
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,TimeSelect,False,1.1,False,False,views/reserve/TimeSelect.vue:4
+2191,178,2335,304,False,time aoi,TimeSelect,False,,False,False,views/reserve/TimeSelect.vue:4
+896,398,1088,522,False,el-step is-horizontal is-center aoi key-aoi,TimeSelect,False,,False,False,views/reserve/TimeSelect.vue:4
+1088,398,1280,522,True,el-step is-horizontal is-center aoi key-aoi,TimeSelect,False,,False,False,views/reserve/TimeSelect.vue:4
+1280,398,1472,522,False,el-step is-horizontal is-center aoi key-aoi,TimeSelect,False,,False,False,views/reserve/TimeSelect.vue:4
+1472,398,1664,522,False,el-step is-horizontal is-center aoi key-aoi,TimeSelect,False,,False,False,views/reserve/TimeSelect.vue:4
+615,608,1945,650,True,aoi key-aoi,TimeSelect,False,,False,False,views/reserve/TimeSelect.vue:4
+645,674,1945,799,True,aoi key-aoi,TimeSelect,False,,False,False,views/reserve/TimeSelect.vue:4
+645,861,1141,927,True,aoim key-aoi label,TimeSelect,True,,False,False,views/reserve/TimeSelect.vue:14
+645,927,975,987,True,el-input el-input--large el-input--prefix el-input--suffix el-date-editor el-date-editor--date aoim key-aoi dp el-tooltip__trigger el-tooltip__trigger,TimeSelect,True,"3.1,3.1,3.2",True,True,views/reserve/TimeSelect.vue:17
+567,1010,1049,1517,True,date-select,TimeSelect,True,3.1,True,True,
+1171,869,1521,935,True,aoim key-aoi label,TimeSelect,True,,False,False,views/reserve/TimeSelect.vue:14
+1171,935,1521,983,True,el-select aoi key-aoi,TimeSelect,True,3.2,True,True,views/reserve/TimeSelect.vue:4
+1167,1005,1521,1418,True,start-select,TimeSelect,True,3.2,True,True,
+1565,869,1915,935,True,aoim key-aoi label,TimeSelect,True,,False,False,views/reserve/TimeSelect.vue:14
+1565,935,1915,983,True,el-select aoi key-aoi,TimeSelect,True,3.2,True,True,views/reserve/TimeSelect.vue:4
+1561,1006,1917,1418,True,end-select,TimeSelect,True,3.2,True,True,
+1118,1462,1280,1522,False,aoim,TimeSelect,False,,False,False,views/reserve/TimeSelect.vue:14
+1280,1462,1442,1522,True,aoim key-aoi,TimeSelect,False,,False,False,views/reserve/TimeSelect.vue:14
+225,181,706,274,False,aoi logo,VolunteerTeam,False,,False,False,views/services/VolunteerTeam.vue:3
+925,196,1057,304,False,el-tabs el-tabs--top aoi nav,VolunteerTeam,True,1.1,False,False,views/services/VolunteerTeam.vue:3
+1121,196,1336,304,False,el-tabs el-tabs--top aoi nav,VolunteerTeam,True,1.1,False,False,views/services/VolunteerTeam.vue:3
+1379,196,1541,304,False,el-tabs el-tabs--top aoi nav,VolunteerTeam,True,1.1,False,False,views/services/VolunteerTeam.vue:3
+1575,196,1731,304,True,el-tabs el-tabs--top aoi nav,VolunteerTeam,True,1.1,False,False,views/services/VolunteerTeam.vue:3
+1770,196,1971,304,False,el-tabs el-tabs--top aoi nav,VolunteerTeam,True,1.1,False,False,views/services/VolunteerTeam.vue:3
+2191,178,2335,304,False,time aoi,VolunteerTeam,False,,False,False,views/services/VolunteerTeam.vue:3
+301,410,741,464,False,aoi,VolunteerTeam,False,,False,False,views/services/VolunteerTeam.vue:3
+331,494,711,578,False,el-menu-item aoip,VolunteerTeam,False,1.1,False,False,
+331,578,711,662,False,el-menu-item aoip,VolunteerTeam,False,1.1,False,False,
+331,662,711,746,False,el-menu-item aoip,VolunteerTeam,False,1.1,False,False,
+331,746,711,830,False,el-menu-item aoip,VolunteerTeam,False,1.1,False,False,
+331,830,711,914,False,el-menu-item aoip,VolunteerTeam,False,1.1,False,False,
+331,914,711,998,False,el-menu-item aoip,VolunteerTeam,False,1.1,False,False,
+331,998,711,1082,False,el-menu-item aoip,VolunteerTeam,False,1.1,False,False,
+331,1082,711,1166,True,el-menu-item aoip key-aoi,VolunteerTeam,False,1.1,False,False,
+331,1166,711,1250,False,el-menu-item is-active aoip,VolunteerTeam,False,1.1,False,False,
+907,409,2096,445,False,aoi breadcrumb,VolunteerTeam,False,,False,False,views/services/VolunteerTeam.vue:3
+907,475,2096,529,False,aoi title,VolunteerTeam,False,,False,False,views/services/VolunteerTeam.vue:6
+907,559,2096,1440,False,aoi content,VolunteerTeam,False,,False,False,views/services/VolunteerTeam.vue:9
