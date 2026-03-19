@@ -11,19 +11,19 @@ GazeDecoder study.
 
 ## Study Design
 
-| Attribute                    | Value                                                       |
-| ---------------------------- | ----------------------------------------------------------- |
-| Participants                 | 20 (anonymised P1–P20)                                      |
-| System under test            | University library portal (see `app/`)                      |
-| Task                         | Seat-reservation workflow (multi-step task flow)            |
-| Eye-tracker                  | Tobii Eye Tracker 5 (30 Hz)                                 |
-| Screen resolution            | 1920 × 1080                                                 |
-| Labelling unit               | AOI × view instance                                         |
-| Positive label (`issue = 1`) | AOI reported as problematic in the post-task interview      |
-| Negative label (`issue = 0`) | AOI not reported as problematic                             |
-| Total gaze windows           | 3 037                                                       |
-| Window length                | 64 frames (\(\omega = 64\))                                 |
-| Window stride                | 32 samples (50 % overlap)                                   |
+| Attribute                    | Value                                                  |
+| ---------------------------- | ------------------------------------------------------ |
+| Participants                 | 20 (anonymised P1–P20)                                 |
+| System under test            | University library portal (see `app/`)                 |
+| Task                         | Seat-reservation workflow (multi-step task flow)       |
+| Eye-tracker                  | Tobii Eye Tracker 5 (30 Hz)                            |
+| Screen resolution            | 1920 × 1080                                            |
+| Labelling unit               | AOI × view instance                                    |
+| Positive label (`issue = 1`) | AOI reported as problematic in the post-task interview |
+| Negative label (`issue = 0`) | AOI not reported as problematic                        |
+| Total gaze windows           | 3 037                                                  |
+| Window length                | 64 frames (\(\omega = 64\))                            |
+| Window stride                | 32 samples (50 % overlap)                              |
 
 ### Labelling Protocol
 

@@ -71,11 +71,11 @@ CONTEXT_DIR = _context_dir
 # ── Archive layout ────────────────────────────────────────────────────────────
 # model/
 #   archive/
-#     ablation/          ← per-variant LOSO fold caches (ablation experiment)
+#     ablation/          ← per-variant CV fold caches (ablation experiment)
 #       <variant_name>/
 #         fold_01.json … fold_NN.json
 #         final_report.json
-#     baselines/         ← per-model LOSO fold caches (baseline experiment)
+#     baselines/         ← per-model CV fold caches (baseline experiment)
 #       <model_name>/
 #         fold_01.json … fold_NN.json
 #         final_report.json
@@ -167,4 +167,4 @@ def print_config():
         f"Config  : window={WINDOW_SIZE}, stride={STRIDE}, bs={BATCH_SIZE}, "
         f"lr={LR}, epochs={EPOCHS} (fixed, best-of), seed={SEED}"
     )
-    print(f"Protocol: LOSO (participant-level)")
+    print(f"Protocol: participant-level 5-fold CV")

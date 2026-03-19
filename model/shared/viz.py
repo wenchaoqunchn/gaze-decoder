@@ -56,7 +56,7 @@ def fold_metric_vector(
 
 def plot_f1_leaderboard(
     df: pd.DataFrame,
-    title: str = "F1-score (Issue class) — LOSO mean",
+    title: str = "F1-score (Issue class) — 5-fold CV mean",
     save_path: Optional[str] = None,
 ):
     plt.figure(figsize=(10, 6))
@@ -122,7 +122,7 @@ def plot_mean_confmat(
     )
     plt.xlabel("Pred")
     plt.ylabel("True")
-    plt.title(title or f"{model_name} — mean confusion matrix (LOSO)")
+    plt.title(title or f"{model_name} — mean confusion matrix (5-fold CV)")
     plt.tight_layout()
     plt.show()
 

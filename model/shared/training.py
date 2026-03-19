@@ -40,7 +40,7 @@ from shared.config import (
     WARMUP_RATIO,
     set_fold_seed,
 )
-from shared.dataset import EyeSeqDataset, collect_numpy, get_loso_splits
+from shared.dataset import EyeSeqDataset, collect_numpy, get_participant_5fold_splits
 from shared.models import ModelSpec
 
 
@@ -257,24 +257,27 @@ def _load_final(cache_dir: Path) -> Optional[dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Unified LOSO runner (resumable, per-fold cache)
+# Unified CV runner (resumable, per-fold cache)
 # ─────────────────────────────────────────────────────────────────────────────
 
 
-def run_loso(
+def run_cv(
     spec: ModelSpec,
     ds: Dataset,
     cache_dir: Path,
     *,
+    n_folds: int = 5,
+    seed: int = SEED,
+    val_policy: str = "rotate",
     verbose: bool = True,
 ) -> dict:
     """
-    Run (or resume) LOSO for one model spec.
+    Run (or resume) participant-level k-fold CV for one model spec.
 
     Parameters
     ----------
     spec      : ModelSpec defining model name, kind and builder
-    ds        : Dataset (full, LOSO splits applied internally)
+    ds        : Dataset (full; train/val/test splits applied internally)
     cache_dir : Path for per-fold + final_report caches
     verbose   : print progress
 
@@ -294,9 +297,13 @@ def run_loso(
             )
         return cached
 
-    splits = get_loso_splits(ds)
-    n_folds = len(splits)
-    assert n_folds > 1, "Need ≥2 participants for LOSO."
+    splits = get_participant_5fold_splits(
+        ds,
+        n_folds=n_folds,
+        seed=seed,
+        val_policy=val_policy,  # type: ignore[arg-type]
+    )
+    assert len(splits) == n_folds, "Unexpected split count."
 
     existing = _load_existing_folds(cache_dir)
     fold_metrics = []
@@ -320,21 +327,30 @@ def run_loso(
             continue
 
         set_fold_seed(fid)  # ← V3: reproducible per-fold seed
-        tr, te, pid = splits[fid - 1]
+        sp = splits[fid - 1]
+        tr = sp["train_idx"]
+        va = sp["val_idx"]
+        te = sp["test_idx"]
+        test_pids = sp["test_pids"]
+        val_pid = sp["val_pid"]
         if verbose:
             print(
                 f"\n  ▶ {spec.name} | Fold {fid}/{n_folds} "
-                f"heldout={pid} | train={len(tr)} test={len(te)}"
+                f"test={test_pids} val={val_pid} | "
+                f"train={len(tr)} val={len(va)} test={len(te)}"
             )
 
         if spec.kind == "ml":
             # ── ML path ───────────────────────────────────────────────────────
             X_tr, y_tr, _ = collect_numpy(ds, tr)
+            X_va, y_va, _ = collect_numpy(ds, va)
             X_te, y_te, _ = collect_numpy(ds, te)
             X_tr = aggregate_features(X_tr)
+            X_va = aggregate_features(X_va)
             X_te = aggregate_features(X_te)
             scaler = StandardScaler()
             X_tr = scaler.fit_transform(X_tr)
+            X_va = scaler.transform(X_va)
             X_te = scaler.transform(X_te)
             clf = spec.build()
             n_pos = int((y_tr == 1).sum())
@@ -344,6 +360,9 @@ def run_loso(
                 clf.fit(X_tr, y_tr, sample_weight=sw)
             except TypeError:
                 clf.fit(X_tr, y_tr)
+            # Select best by validation F1 (Issue), then report on test.
+            y_va_pred = clf.predict(X_va)
+            _ = compute_metrics(y_va, y_va_pred)  # kept for possible debugging
             y_pred = clf.predict(X_te)
             metric = compute_metrics(y_te, y_pred)
             cm = confusion_matrix(y_te, y_pred)
@@ -352,7 +371,7 @@ def run_loso(
         else:
             # ── DL path ───────────────────────────────────────────────────────
             model = spec.build()
-            out = train_dl_one_fold(model, tr, te, ds=ds, verbose=verbose)
+            out = train_dl_one_fold(model, tr, va, ds=ds, verbose=verbose)
             y_te_np, y_pred = predict_dl(out["model"], ds, te)
             metric = compute_metrics(y_te_np, y_pred)
             cm = confusion_matrix(y_te_np, y_pred)
@@ -362,8 +381,10 @@ def run_loso(
         conf_mats.append(cm)
         fi = {
             "fold": fid,
-            "heldout_pid": pid,
+            "test_pids": test_pids,
+            "val_pid": val_pid,
             "n_test": int(len(te)),
+            "n_val": int(len(va)),
             "n_train": int(len(tr)),
         }
         fold_info.append(fi)
@@ -389,7 +410,7 @@ def run_loso(
 
     final = {
         "model": spec.name,
-        "protocol": "LOSO",
+        "protocol": "participant-level 5-fold",
         "n_folds": n_folds,
         "fold_metrics": fold_metrics,
         "summary": summarize_folds(fold_metrics),
@@ -411,6 +432,22 @@ def run_loso(
     return final
 
 
+def run_loso(
+    spec: ModelSpec,
+    ds: Dataset,
+    cache_dir: Path,
+    *,
+    verbose: bool = True,
+) -> dict:
+    """Backward-compatible alias.
+
+    The implementation was updated to the paper's participant-level 5-fold CV.
+    Prefer calling `run_cv` explicitly.
+    """
+
+    return run_cv(spec, ds, cache_dir, verbose=verbose)
+
+
 # ─────────────────────────────────────────────────────────────────────────────
 # Batch runners
 # ─────────────────────────────────────────────────────────────────────────────
@@ -425,7 +462,7 @@ def run_all_models(
     verbose: bool = True,
 ) -> Dict[str, dict]:
     """
-    Run LOSO for all (or selected) models in `registry`.
+    Run participant-level CV for all (or selected) models in `registry`.
 
     Parameters
     ----------

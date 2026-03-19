@@ -1,6 +1,6 @@
 # shared/dataset.py
 # ─────────────────────────────────────────────────────────────────────────────
-# GazeDecoder V3 — EyeSeqDataset & LOSO split utilities
+# GazeDecoder V3 — EyeSeqDataset & participant-level CV split utilities
 # Shared by both ablation and baselines notebooks.
 # ─────────────────────────────────────────────────────────────────────────────
 import os
@@ -9,7 +9,7 @@ import json
 import pickle
 from bisect import bisect_right
 from pathlib import Path
-from typing import List, Optional, Tuple
+from typing import Dict, List, Literal, Optional, Tuple
 
 import numpy as np
 import pandas as pd
@@ -365,8 +365,91 @@ class FeatureMaskedDataset(Dataset):
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# LOSO split utility
+# Cross-validation split utilities
 # ─────────────────────────────────────────────────────────────────────────────
+SplitDict = Dict[str, object]
+
+
+def get_participant_5fold_splits(
+    ds: EyeSeqDataset,
+    *,
+    n_folds: int = 5,
+    seed: int = 42,
+    val_policy: Literal["rotate", "random"] = "rotate",
+) -> List[SplitDict]:
+    """Participant-level 5-fold CV as described in the paper.
+
+    Participants are partitioned into ``n_folds`` groups. For each fold:
+      - ``test_pids`` is the held-out group
+      - ``val_pid`` is 1 participant selected from remaining participants
+      - ``train_pids`` are the rest
+
+    Returns a list of dicts with keys:
+      fold, train_idx, val_idx, test_idx, train_pids, val_pid, test_pids
+    """
+
+    pids = sorted({s["p_id"] for s in ds.samples})
+    if len(pids) == 0:
+        raise ValueError("Dataset has no participants (no samples).")
+    if len(pids) % n_folds != 0:
+        raise ValueError(
+            f"Expected participant count divisible by n_folds. Got {len(pids)} and n_folds={n_folds}."
+        )
+
+    rng = np.random.default_rng(seed)
+    pids_shuffled = list(rng.permutation(pids))
+    fold_size = len(pids) // n_folds
+    folds = [pids_shuffled[i * fold_size : (i + 1) * fold_size] for i in range(n_folds)]
+
+    # Pre-index samples per pid for fast lookup
+    idx_by_pid: Dict[str, List[int]] = {pid: [] for pid in pids}
+    for i, s in enumerate(ds.samples):
+        idx_by_pid[s["p_id"]].append(i)
+
+    splits: List[SplitDict] = []
+    for fold_id in range(1, n_folds + 1):
+        test_pids = list(folds[fold_id - 1])
+        remaining = [pid for pid in pids_shuffled if pid not in test_pids]
+        if len(remaining) < 2:
+            raise ValueError(
+                "Not enough participants left to form train/val after selecting test fold."
+            )
+
+        if val_policy == "rotate":
+            # Deterministic: pick (fold_id-1)th remaining participant as val
+            val_pid = remaining[(fold_id - 1) % len(remaining)]
+        elif val_policy == "random":
+            val_pid = str(rng.choice(remaining))
+        else:
+            raise ValueError(f"Unknown val_policy: {val_policy}")
+
+        train_pids = [pid for pid in remaining if pid != val_pid]
+
+        train_idx = [i for pid in train_pids for i in idx_by_pid[pid]]
+        val_idx = list(idx_by_pid[val_pid])
+        test_idx = [i for pid in test_pids for i in idx_by_pid[pid]]
+
+        if len(train_idx) == 0 or len(val_idx) == 0 or len(test_idx) == 0:
+            raise ValueError(
+                "Empty split encountered. "
+                f"train={len(train_idx)}, val={len(val_idx)}, test={len(test_idx)}"
+            )
+
+        splits.append(
+            {
+                "fold": fold_id,
+                "train_idx": train_idx,
+                "val_idx": val_idx,
+                "test_idx": test_idx,
+                "train_pids": train_pids,
+                "val_pid": val_pid,
+                "test_pids": test_pids,
+            }
+        )
+
+    return splits
+
+
 def get_loso_splits(
     ds: EyeSeqDataset,
 ) -> List[Tuple[List[int], List[int], str]]:
