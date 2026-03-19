@@ -16,10 +16,10 @@ of usability issues without manual annotation overhead.
 
 Key results (controlled study, 20 participants, 3 037 labelled gaze windows):
 
-| Model           | F1         | Precision | Recall | Scott–Knott Tier |
-| --------------- | ---------- | --------- | ------ | ---------------- |
-| **GazeDecoder** | **0.9467** | 0.9531    | 0.9404 | **1**            |
-| Best baseline   | 0.9229     | —         | —      | 2                |
+| Model                    | F1         | Precision | Recall | Scott–Knott Tier |
+| ------------------------ | ---------- | --------- | ------ | ---------------- |
+| **GazeDecoder**          | **0.9467** | 0.9531    | 0.9404 | **1**            |
+| Best baseline (PatchTST) | 0.9242     | 0.9114    | 0.9406 | 2                |
 
 ---
 
